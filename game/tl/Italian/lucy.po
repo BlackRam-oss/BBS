@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-22 18:21\n"
+"PO-Revision-Date: 2022-08-09 09:18\n"
 
 msgid "[TALKmc00] Hey"
 msgstr "[TALKmc00] Ehi"
@@ -67,43 +67,43 @@ msgid "[TALKlcy05] [liz] has this really nice nail polish that I'd like to use, 
 msgstr "[TALKlcy05] [liz] ha questa lucidatura per unghie che mi piacerebbe provare, ma non me lo darà mai in prestito!"
 
 msgid "[TALKlcy07] It'd be great if you could... y'know... maybe steal it from her?"
-msgstr ""
+msgstr "[TALKlcy07] Sarebbe bello se tu potessi... Sai... Magari rubarglielo?"
 
 msgid "[TALKmc08] What? That's crazy! You're nuts!"
-msgstr ""
+msgstr "[TALKmc08] Cosa? È una follia! Tu sei pazzo!"
 
 msgid "[TALKmc08] She'll kill me if she finds out!"
-msgstr ""
+msgstr "[TALKmc08] Mi ucciderà se lo scopre!"
 
 msgid "[TALKlcy07] Come on... you're my brave little [lcyR.MClabel]! Be a brave man and do it for me."
-msgstr ""
+msgstr "[TALKlcy07] Dai... Sei il mio piccolo coraggioso [lcyR.MClabel]! Sii un uomo coraggioso e fallo per me."
 
 msgid "[TALKmc06] {i}When she stretches her boobs like that... I would literally do anything for my [lcyR.NPClabel]"
-msgstr ""
+msgstr "[TALKmc06] {i}Quando allunga le tette in quel modo... Farei letteralmente di tutto per la mia [lcyR.NPClabel]"
 
 msgid "[TALKmc05] Okay, but you owe me one!"
-msgstr ""
+msgstr "[TALKmc05] Va bene, ma mi devi un favore!"
 
 msgid "[TALKlcy03] Great, it's the pink one."
-msgstr ""
+msgstr "[TALKlcy03] Perfetto, è quello rosa."
 
 msgid "[TALKlcy01] So?!"
-msgstr ""
+msgstr "[TALKlcy01] E allora?!"
 
 msgid "[TALKlcy] Were you able to get the nail polish? [nointeract]"
-msgstr ""
+msgstr "[TALKlcy] Sei riuscito a procurarti lo smalto per unghie? [nointeract]"
 
 msgid "[TALKlcy06] Come on! Don't leave me hanging!"
-msgstr ""
+msgstr "[TALKlcy06] Andiamo! Non lasciarmi in sospeso!"
 
 msgid "[TALKlcy] Really?! Let me see! [nointeract]"
-msgstr ""
+msgstr "[TALKlcy] Davvero?! Fammi vedere! [nointeract]"
 
 msgid "[TALKlcy03] No way!"
-msgstr ""
+msgstr "[TALKlcy03] Non ci credo!"
 
 msgid "[TALKlcy05] It's a really nice color!"
-msgstr ""
+msgstr "[TALKlcy05] È un colore davvero bello!"
 
 msgid "[TALKlcy01] Who would have thought that you have some useful skills!"
 msgstr ""
