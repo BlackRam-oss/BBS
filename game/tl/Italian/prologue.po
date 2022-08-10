@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-24 08:49\n"
+"PO-Revision-Date: 2022-08-10 09:31\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Newbie [says] Hai provato quel nuovo ristorante italiano... come si chiamava?! Oh giusto! Da Luigi."
@@ -40,13 +40,13 @@ msgid "Policewoman [says] Okay, we're here."
 msgstr "Poliziotta [says] Ok, siamo arrivati."
 
 msgid "Policewoman [says] Newbie, make sure the perp is comfortable with the handcuffs."
-msgstr ""
+msgstr "Poliziotta [says] principiante, assicurati che il criminale sia a suo agio con le manette."
 
 msgid "Newbie [says] You heard her! Today is your big day..."
-msgstr ""
+msgstr "Il principiante [says] L'avete sentita! Oggi è il vostro grande giorno..."
 
 msgid "Cop [says] Smile pretty..."
-msgstr ""
+msgstr "Poliziotto [says] Sorridi bene..."
 
 msgid "Cop [says] Okay, now let's see who we have here today:"
 msgstr ""
