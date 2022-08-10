@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-08-09 09:18\n"
+"PO-Revision-Date: 2022-08-10 09:31\n"
 
 msgid "[TALKmc00] Hey"
 msgstr "[TALKmc00] Ehi"
@@ -106,100 +106,100 @@ msgid "[TALKlcy05] It's a really nice color!"
 msgstr "[TALKlcy05] È un colore davvero bello!"
 
 msgid "[TALKlcy01] Who would have thought that you have some useful skills!"
-msgstr ""
+msgstr "[TALKlcy01] Chi l'avrebbe mai detto che hai delle abilità utili!"
 
 msgid "[TALKlcy06] Go already!"
-msgstr ""
+msgstr "[TALKlcy06] Vai!"
 
 msgid "[TALKlcy06] Give it to me!"
-msgstr ""
+msgstr "[TALKlcy06] Dammelo!"
 
 msgid "[TALKmc06] {i}Hmm... Think [mc]..."
-msgstr ""
+msgstr "[TALKmc06] {i}Hmm... Pensa [mc]..."
 
 msgid "{i}You owe me a favor: [nointeract]"
-msgstr ""
+msgstr "{i}Mi devi un favore: [nointeract]"
 
 msgid "[TALKmc10] Actually.... I was thinking you should let me do your nails for you."
-msgstr ""
+msgstr "[TALKmc10] In realtà.... Stavo pensando che dovresti lasciarmi fare le unghie per te."
 
 msgid "[TALKlcy07] What??"
-msgstr ""
+msgstr "[TALKlcy07] Cosa??"
 
 msgid "[TALKlcy06] Stop messing around, [mc]!"
-msgstr ""
+msgstr "[TALKlcy06] Smettila di scherzare, [mc]!"
 
 msgid "[TALKlcy02] Seriously [mc], I don't have time to fix my nails after you mess them up!"
-msgstr ""
+msgstr "[TALKlcy02] Sul serio [mc], non ho tempo di sistemarmi le unghie dopo che le hai rovinate!"
 
 msgid "[TALKmc00] I am being serious, you should let me try!"
-msgstr ""
+msgstr "[TALKmc00] Sono serio, dovresti farmi provare!"
 
 msgid "[TALKmc04] Or I could return it to [liz]..."
-msgstr ""
+msgstr "[TALKmc04] Oppure potrei restituirlo a [liz]..."
 
 msgid "[TALKlcy06] You know what...it's fine!"
-msgstr ""
+msgstr "[TALKlcy06] Sai una cosa... Va bene!"
 
 msgid "[TALKlcy01] You deserve a chance!"
-msgstr ""
+msgstr "[TALKlcy01] Ti meriti una possibilità!"
 
 msgid "[TALKlcy07] But you better apply it perfectly or you are doomed!"
-msgstr ""
+msgstr "[TALKlcy07] Ma è meglio che lo implichi alla perfezione o sarai spacciato!"
 
 msgid "[TALKmc08] {i}Oh my god!!! I can't believe I'm actually going to touch her feet!"
-msgstr ""
+msgstr "[TALKmc08] {i}Oh mio Dio!!! Non posso credere che sto per toccare i suoi piedi!"
 
 msgid "[TALKmc03] {i}This is awesome!!!"
-msgstr ""
+msgstr "[TALKmc03] {i}È fantastico!!!"
 
 msgid "[TALKmc06] {i}She didn't notice...I can go further!"
-msgstr ""
+msgstr "[TALKmc06] {i}Non se n'è accorta... Posso andare oltre!"
 
 msgid "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.NPClabel]'s foot on my cock!"
-msgstr ""
+msgstr "[TALKmc03] {i}Oh mio Dio!!! Sento il piede di [lcyR.NPClabel] sul mio cazzo!"
 
 msgid "[TALKmc10] What's going on? [lcy]?!"
-msgstr ""
+msgstr "[TALKmc10] Cosa succede? [lcy]?!"
 
 msgid "[TALKlcy06] Easy [lcyN.MClabel] don't push it!"
-msgstr ""
+msgstr "[TALKlcy06] Facile [lcyN.MClabel] Non spingere!"
 
 msgid "[TALKlcy02] That's enough for you!"
-msgstr ""
+msgstr "[TALKlcy02] Questo è sufficiente per te!"
 
 msgid "[TALKlcy00] Nice! Where did you learn to do these things?"
-msgstr ""
+msgstr "[TALKlcy00] Ottimo! Dove hai imparato a fare queste cose?"
 
 msgid "[TALKlcy05] They turned out great! Against all odds..."
-msgstr ""
+msgstr "[TALKlcy05] Sono venuti benissimo! Contro ogni previsione..."
 
 msgid "[TALKlcy05] Well..."
-msgstr ""
+msgstr "[TALKlcy05] Beh..."
 
 msgid "[TALKlcy07] You did a good job boy"
-msgstr ""
+msgstr "[TALKlcy07] Hai fatto un buon lavoro, fratello"
 
 msgid "[TALKlcy05] Now go play somewhere else!"
-msgstr ""
+msgstr "[TALKlcy05] Ora vai a giocare da un'altra parte!"
 
 #    # game/labels/lucy.rpy:20
 msgid "They look bad"
-msgstr ""
+msgstr "Hanno un brutto aspetto"
 
 #    # game/labels/lucy.rpy:20
 msgid "They are coming along well"
-msgstr ""
+msgstr "Stanno venendo bene"
 
 #    # game/labels/lucy.rpy:58
 msgid "Look some more"
-msgstr ""
+msgstr "Guarda ancora un po'"
 
 #    # game/labels/lucy.rpy:71
 msgid "Not so fast!"
-msgstr ""
+msgstr "Non così in fretta!"
 
 #    # game/labels/lucy.rpy:90
 msgid "Try to get a better feel"
-msgstr ""
+msgstr "Cerca di ottenere una visione migliore"
 
