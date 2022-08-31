@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-08-10 09:31\n"
+"PO-Revision-Date: 2022-08-31 16:12\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Newbie [says] Hai provato quel nuovo ristorante italiano... come si chiamava?! Oh giusto! Da Luigi."
@@ -49,58 +49,58 @@ msgid "Cop [says] Smile pretty..."
 msgstr "Poliziotto [says] Sorridi bene..."
 
 msgid "Cop [says] Okay, now let's see who we have here today:"
-msgstr ""
+msgstr "Cop [says] Bene, ora vediamo chi abbiamo qui oggi:"
 
 msgid "Cop [says] Name:"
-msgstr ""
+msgstr "Cop [says] Nome:"
 
 msgid "Cop [says] Surname:"
-msgstr ""
+msgstr "Cop [says] Cognome:"
 
 msgid "Cop [says] Age: 24 years old."
-msgstr ""
+msgstr "Cop [says] Età: 24 anni."
 
 msgid "Cop [says] Good! Now straight to the interrogation room, officers Murtaugh and Riggs want to have a quick chat with you."
-msgstr ""
+msgstr "Cop [says] Bene! Ora andiamo subito nella sala interrogatori, gli agenti Murtaugh e Riggs vogliono fare una breve chiacchierata con te."
 
 msgid "Riggs [says] Here he is! Our suspect... How about that... He doesn't look like a criminal."
-msgstr ""
+msgstr "Riggs [says] Eccolo! Il nostro sospetto... Che ne dite... Non sembra un criminale."
 
 msgid "Murtaugh [says] The real question is whether he is more of a petty thief or a hardened killer."
-msgstr ""
+msgstr "Murtaugh [says] La vera domanda è se sia più un ladruncolo o un assassino incallito."
 
 msgid "Murtaugh [says] Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you are... [mc]! AKA are the bad guy!"
-msgstr ""
+msgstr "Murtaugh [says] Oh, le mie scuse, dove sono le mie buone maniere? Noi siamo Murtaugh e Riggs, e voi siete... [mc]! Ovvero sei il cattivo!"
 
 msgid "Riggs [says] YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
-msgstr ""
+msgstr "Riggs [says] PENSI CHE QUESTO SIA UN GIOCO!!! VUOI FARE LA FINE DI TUO PADRE???"
 
 msgid "Murtaugh [says] Easy... Easy Riggs. We know he's innocent. But to let him go, we need to know who his partner is."
-msgstr ""
+msgstr "Murtaugh [says] Piano... Piano Riggs. Sappiamo che è innocente. Ma per lasciarlo andare, dobbiamo sapere chi è il suo partner."
 
 msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 in and out of halfway houses..."
-msgstr ""
+msgstr "Murtaugh [says] Diamo un'occhiata più da vicino al suo fascicolo... Dopo i 20 anni, dentro e fuori dai centri di recupero..."
 
 msgid "Riggs [says] Whereas, she..."
-msgstr ""
+msgstr "Riggs [says] Invece, lei..."
 
 msgid "Riggs [says] Your..."
-msgstr ""
+msgstr "Riggs [says] Il tuo..."
 
 msgid "Riggs [says] Was desperate to help. But you didn't care. Right?"
-msgstr ""
+msgstr "Riggs [says] Volevo disperatamente aiutarla. Ma a te non importava. Non è vero?"
 
 msgid "Murtaugh [says] Let's rewind..."
-msgstr ""
+msgstr "Murtaugh [says] Riavvolgiamo il nastro..."
 
 msgid "Murtaugh [says] Anna, after your step-mother died, decided to bring you and your [lizR.NPClabel] into her home..."
-msgstr ""
+msgstr "Murtaugh [says] Anna, dopo la morte della tua matrigna, decise di portare te e il tuo[lizR.NPClabel] nella sua casa..."
 
 msgid "Murtaugh [says] From the man who was kind enough to impregnated her when she was only 18 and then left her with nothing."
-msgstr ""
+msgstr "Murtaugh [says] Dall'uomo che è stato così gentile da metterla incinta quando aveva solo 18 anni e poi l'ha lasciata senza niente."
 
 msgid "Murtaugh [says] Not caring about her..."
-msgstr ""
+msgstr "Murtaugh [says] Non preoccupandosi di lei..."
 
 msgid "Murtaugh [says] After that she tried to rebuild her life by having another child with a better man...."
 msgstr ""
