@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-31 20:00\n"
+"PO-Revision-Date: 2022-09-01 16:12\n"
 
 #    # game/tool/nav_value.rpy:1
 msgid "[mc] room"
-msgstr ""
+msgstr "[mc] Camera"
 
 #    # game/tool/nav_value.rpy:1
 msgid "[liz] room"
-msgstr ""
+msgstr "[liz] Camera"
 
 #    # game/tool/nav_value.rpy:1
 msgid "Lounge"
-msgstr ""
+msgstr "Salone"
 
 #    # game/tool/nav_value.rpy:1
 msgid "Kitchen"
-msgstr ""
+msgstr "Cucina"
 
 #    # game/tool/nav_value.rpy:8
 msgid "[mc] house"
-msgstr ""
+msgstr "[mc] Casa"
 
