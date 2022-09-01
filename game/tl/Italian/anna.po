@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-22 18:21\n"
+"PO-Revision-Date: 2022-09-01 16:12\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr "[TALKmc03] Wow!!"
@@ -67,7 +67,7 @@ msgid "[TALKann00] Tell me! What dream?"
 msgstr "[TALKann00] Racconta! Che sogno?"
 
 msgid "[TALKmc08] Ahahahah... emmm... it's a bit hard to explain."
-msgstr "[TALKmc08] Ahahahah... emmm... è un po' complicato da spiegare."
+msgstr "[TALKmc08] Ahahahah... emmm... È un po' complicato da spiegare."
 
 msgid "[TALKmc10] I really need a hug...."
 msgstr "[TALKmc10] Mi serve un abbraccio...."
