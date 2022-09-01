@@ -10,8 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-27 15:05\n"
+"PO-Revision-Date: 2022-09-01 16:12\n"
 
 msgid "(too slow)"
-msgstr ""
+msgstr "(troppo lento)"
 
