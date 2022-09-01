@@ -10,10 +10,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-08-31 16:12\n"
+"PO-Revision-Date: 2022-09-01 16:13\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
-msgstr "Newbie [says] Hai provato quel nuovo ristorante italiano... come si chiamava?! Oh giusto! Da Luigi."
+msgstr "Newbie [says] Hai provato quel nuovo ristorante italiano... Come si chiamava?! Oh giusto! Da Luigi."
 
 msgid "Policewoman [says] No!"
 msgstr "Poliziotta [says] No!"
@@ -49,19 +49,19 @@ msgid "Cop [says] Smile pretty..."
 msgstr "Poliziotto [says] Sorridi bene..."
 
 msgid "Cop [says] Okay, now let's see who we have here today:"
-msgstr "Cop [says] Bene, ora vediamo chi abbiamo qui oggi:"
+msgstr "Poliziotto [says] Bene, ora vediamo chi abbiamo qui oggi:"
 
 msgid "Cop [says] Name:"
-msgstr "Cop [says] Nome:"
+msgstr "Poliziotto [says] Nome:"
 
 msgid "Cop [says] Surname:"
-msgstr "Cop [says] Cognome:"
+msgstr "Poliziotto [says] Cognome:"
 
 msgid "Cop [says] Age: 24 years old."
-msgstr "Cop [says] Età: 24 anni."
+msgstr "Poliziotto [says] Età: 24 anni."
 
 msgid "Cop [says] Good! Now straight to the interrogation room, officers Murtaugh and Riggs want to have a quick chat with you."
-msgstr "Cop [says] Bene! Ora andiamo subito nella sala interrogatori, gli agenti Murtaugh e Riggs vogliono fare una breve chiacchierata con te."
+msgstr "Poliziotto [says] Bene! Ora andiamo subito nella sala interrogatori, gli agenti Murtaugh e Riggs vogliono fare una breve chiacchierata con te."
 
 msgid "Riggs [says] Here he is! Our suspect... How about that... He doesn't look like a criminal."
 msgstr "Riggs [says] Eccolo! Il nostro sospetto... Che ne dite... Non sembra un criminale."
@@ -103,44 +103,44 @@ msgid "Murtaugh [says] Not caring about her..."
 msgstr "Murtaugh [says] Non preoccupandosi di lei..."
 
 msgid "Murtaugh [says] After that she tried to rebuild her life by having another child with a better man...."
-msgstr ""
+msgstr "Murtaugh [says] Dopo di che ha cercato di ricostruire la sua vita avendo un altro figlio con un uomo migliore...."
 
 msgid "Murtaugh [says] [ann], after your step-mother died, she decided to bring you into her home..."
-msgstr ""
+msgstr "Murtaugh [says] [ann], dopo la morte della tua matrigna, decise di portarti a casa sua..."
 
 msgid "Murtaugh [says] Although you are the son of her ex-boyfriend."
-msgstr ""
+msgstr "Murtaugh [says] Anche se sei il figlio del suo ex fidanzato."
 
 msgid "Murtaugh [says] Treating you like a son, letting you sleep under the same roof as her daughters..."
-msgstr ""
+msgstr "Murtaugh [says] Ti tratta come un figlio, ti lascia dormire sotto lo stesso tetto delle sue figlie..."
 
 msgid "Murtaugh [says] And..."
-msgstr ""
+msgstr "Murtaugh [says] E..."
 
 msgid "Murtaugh [says] and the other..."
-msgstr ""
+msgstr "Murtaugh [says] e l'altro..."
 
 msgid "Riggs [says] You don't talk much, huh?"
-msgstr ""
+msgstr "Riggs [says] Non parli molto, eh?"
 
 msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
-msgstr ""
+msgstr "Riggs [says] Beh, abbiamo abbastanza per tenervi dentro per qualche notte. Vediamo se cambiate idea!"
 
 msgid "What happened to me... I was such a happy child... I really thought I was leaving all that pain behind."
-msgstr ""
+msgstr "Cosa mi è successo... Ero un bambino così felice... Pensavo davvero di essermi lasciato alle spalle tutto quel dolore."
 
 msgid "At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
-msgstr ""
+msgstr "Inizialmente, a casa di [ann], sembrava andare tutto bene. Speravo davvero che tutto si risolvesse."
 
 msgid "But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
-msgstr ""
+msgstr "Ma poi, alla fine dell'estate di qualche anno fa... Quando Nokia era ancora un buon smartphone."
 
 msgid "It all started unravelling after that dream...."
-msgstr ""
+msgstr "Dopo quel sogno tutto ha cominciato a dipanarsi...."
 
 #    # game/labels/prologue.rpy:42
 msgid "Special thanks"
-msgstr ""
+msgstr "Un ringraziamento speciale"
 
 #    # game/labels/prologue.rpy:46
 msgid "3D Modeling\n"
@@ -151,49 +151,56 @@ msgid "3D Modeling\n"
 "bxIvan\n"
 "Megaplayboy10k\n"
 "SummmerP"
-msgstr ""
+msgstr "3D Modeling\n"
+"BigIrishLug\n"
+"krekerman003\n"
+"schlebbsaga\n\n"
+"Various support\n"
+"bxIvan\n"
+"Megaplayboy10k\n"
+"SummmerP"
 
 #    # game/labels/prologue.rpy:114
 msgid "mom"
-msgstr ""
+msgstr "mamma"
 
 #    # game/labels/prologue.rpy:114
 msgid "mother"
-msgstr ""
+msgstr "madre"
 
 #    # game/labels/prologue.rpy:116
 msgid "step son"
-msgstr ""
+msgstr "figliastro"
 
 #    # game/labels/prologue.rpy:117
 msgid "step mom"
-msgstr ""
+msgstr "matrigna"
 
 #    # game/labels/prologue.rpy:120
 msgid "brother"
-msgstr ""
+msgstr "fratello"
 
 #    # game/labels/prologue.rpy:121
 msgid "sister"
-msgstr ""
+msgstr "sorella"
 
 #    # game/labels/prologue.rpy:122
 msgid "step brother"
-msgstr ""
+msgstr "fratellastro"
 
 #    # game/labels/prologue.rpy:123
 msgid "step sister"
-msgstr ""
+msgstr "sorellastra"
 
 #    # game/labels/prologue.rpy:138
 msgid "landlord"
-msgstr ""
+msgstr "padrone di casa"
 
 #    # game/labels/prologue.rpy:139
 msgid "leaseholder"
-msgstr ""
+msgstr "affittuario"
 
 #    # game/labels/prologue.rpy:142
 msgid "housemate"
-msgstr ""
+msgstr "coinquilino"
 
