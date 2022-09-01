@@ -10,14 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-02 12:51\n"
+"PO-Revision-Date: 2022-09-01 16:12\n"
 
 #    # game/minigame/fable_2.rpy:41
 msgid "{color=#1e8e00}Good Work!{/color}"
-msgstr ""
+msgstr "{color=#1e8e00}Ottimo lavoro!{/color}"
 
 #    # game/minigame/fable_2.rpy:45
 msgid "{color=#950000}Ups...\n"
 "Try Again.{/color}"
-msgstr ""
+msgstr "{color=#950000}Ups...\n"
+"Riprova.{/color}"
 
