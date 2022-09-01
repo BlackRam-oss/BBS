@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-02 12:51\n"
+"PO-Revision-Date: 2022-09-01 16:13\n"
 
 #    # game/tool/notifications_value.rpy:1
 msgid "Is against a love affair with you"
-msgstr "È contraria ad una relazione d'amore con te"
+msgstr "È contraria a una relazione d'amore con te"
 
 #    # game/tool/notifications_value.rpy:2
 msgid "Has too much fear of you for a love affair"
@@ -54,19 +54,19 @@ msgstr "{color=#f00} {b}-{/b} Dipendenze"
 
 #    # game/tool/notifications_value.rpy:12
 msgid "{color=#00ff00}{b}+{/b} Lust"
-msgstr ""
+msgstr "{color=#00ff00}{b}+{/b} Lussuria"
 
 #    # game/tool/notifications_value.rpy:13
 msgid "{color=#f00} {b}-{/b} Lust"
-msgstr ""
+msgstr "{color=#f00} {b}-{/b} Lussuria"
 
 #    # game/tool/notifications_value.rpy:14
 msgid "{color=#00ff00}{b}+{/b} Submission"
-msgstr ""
+msgstr "{color=#00ff00}{b}+{/b} Sottomissione"
 
 #    # game/tool/notifications_value.rpy:15
 msgid "{color=#f00} {b}-{/b} Submission"
-msgstr ""
+msgstr "{color=#f00} {b}-{/b} Sottomissione"
 
 #    # game/tool/notifications_value.rpy:17
 msgid "{color=#00ff00}{b}+{/b} Friendship"
