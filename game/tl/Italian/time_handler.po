@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-27 15:04\n"
+"PO-Revision-Date: 2022-09-01 16:12\n"
 
 #    # game/tool/time_handler.rpy:3
 msgid "Night"
-msgstr ""
+msgstr "Notte"
 
 #    # game/tool/time_handler.rpy:3
 msgid "Morning"
-msgstr ""
+msgstr "Mattina"
 
 #    # game/tool/time_handler.rpy:3
 msgid "Afternoon"
-msgstr ""
+msgstr "Pomeriggio"
 
 #    # game/tool/time_handler.rpy:3
 msgid "Evening"
-msgstr ""
+msgstr "Sera"
 
