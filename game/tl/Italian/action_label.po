@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-13 16:18\n"
+"PO-Revision-Date: 2022-09-01 16:13\n"
 
 msgid "ERROR"
 msgstr "ERRORE"
@@ -22,17 +22,17 @@ msgid "You want to become a ninja?! then what are you waiting for!"
 msgstr "Vuoi diventare un ninja?! allora cosa stai aspettando!"
 
 msgid "Start the game to level up the stealth."
-msgstr ""
+msgstr "Iniziare il gioco per aumentare il livello di furtività."
 
 msgid "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
 msgstr "Il gioco è molto semplice: bisogna clicca o premere spazio quando la palla è in mezzo alla barra."
 
 msgid "And with each round you will increase your stealth by 1."
-msgstr ""
+msgstr "E a ogni round aumenterete la vostra furtività di 1 punto."
 
 #    # game/tool/action_label.rpy:10
 msgid "Nap for 3 hours..."
-msgstr ""
+msgstr "Sonnellino di 3 ore..."
 
 #    # game/tool/action_label.rpy:10
 msgid "Sleep"
