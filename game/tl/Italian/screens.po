@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-31 20:01\n"
+"PO-Revision-Date: 2022-09-01 16:12\n"
 
 #    # game/tool/screens.rpy:254
 msgid "Talk"
@@ -46,7 +46,7 @@ msgstr "Mappa"
 
 #    # game/tool/screens.rpy:482
 msgid "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
-msgstr ""
+msgstr "Al momento è la fine di questa storia, purtroppo dovrete aspettare un aggiornamento per continuare questa storia."
 
 #    # game/tool/screens.rpy:484
 msgid "You have completed all the quests."
