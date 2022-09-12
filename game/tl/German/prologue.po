@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-12-03 07:19\n"
+"PO-Revision-Date: 2022-09-12 20:19\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Neuling [says] Hast Du das neue italienische Restaurant ausprobiert... wie hieß es?! Oh, okay! Da Luigi."
@@ -127,7 +127,7 @@ msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's 
 msgstr "Riggs [says] Nun, wir haben genug, um Sie für ein paar Nächte einzusperren. Mal sehen, ob Sie Ihre Meinung ändern!"
 
 msgid "What happened to me... I was such a happy child... I really thought I was leaving all that pain behind."
-msgstr "Was ist mit mir passiert... Ich war so ein glückliches Kind... Ich dachte wirklich, ich würde all diesen Schmerz hinter mir lassen."
+msgstr "Was ist mit mir passiert... Ich war so ein glückliches Kind... Ich dachte wirklich, ich würde all den Schmerz hinter mir lassen."
 
 msgid "At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
 msgstr "Zuerst schien es im Haus von [ann] gut zu laufen. Ich hatte wirklich gehofft, dass alles klappen würde."
