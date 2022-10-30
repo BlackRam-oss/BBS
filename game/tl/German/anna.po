@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-12-02 07:10\n"
+"PO-Revision-Date: 2022-10-30 06:28\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr "[TALKmc03] Wow!!"
@@ -31,7 +31,7 @@ msgid "[TALKmc08] {i}Oh God!!! Was it just a dream. "
 msgstr "[TALKmc08] {i}Oh mein Gott!!! War es nur ein Traum.  "
 
 msgid "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
-msgstr "[TALKmc07] {i}Was ist in mich gefahren?! Das ist so falsch!"
+msgstr "[TALKmc07] {i}Was ist nur in mich gefahren?! Das ist so falsch!"
 
 msgid "[TALKmc07] {i}Mhh... Better to hide this tent pole before..."
 msgstr "[TALKmc07] {i}Mhh... Besser, diesen Ständer zu verstecken, bevor..."
@@ -40,7 +40,7 @@ msgid "(KNOCK KNOCK)"
 msgstr "(KLOPF KLOPF)"
 
 msgid "[TALKmc08] {i}Damn it!"
-msgstr "[TALKmc08] {i}Verdammt!"
+msgstr "[TALKmc08] {i}Verdammt!!!"
 
 msgid "[TALKann00] Good morning Bobby! Time to get up!"
 msgstr "[TALKann00] Guten Morgen Bobby! Zeit zum Aufstehen!"
@@ -127,7 +127,7 @@ msgstr "Ich hätte gerne eine Umarmung"
 
 #    # game/labels/anna.rpy:76
 msgid "Play a trick on her"
-msgstr "Spielen Sie ihr einen Streich"
+msgstr "Spielen Sie ihr ein paar Streiche"
 
 #    # game/labels/anna.rpy:76
 msgid "Help her with the basket"
