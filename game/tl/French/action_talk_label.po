@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/action_talk_label.po\n"
+"X-Crowdin-File-ID: 649\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2021-09-15 16:24\n"
+
+msgid "OK, I'm off. See you."
+msgstr "OK, j'y vais. A plus."
+
+msgid "It's getting late. See you later."
+msgstr "Il se fait tard. A plus."
+
+msgid "Sorry, but I have to go now. Bye."
+msgstr "Désolé, mais je dois y aller. Au revoir."
+
+msgid "Good talk. We should do this more often."
+msgstr "Bonne discussion. Nous devrions le faire plus souvent."
+
+msgid "I just remembered something. Gotta go! Bye."
+msgstr "Je viens de me rappeler un truc. Je dois filer ! Tchao."
+
+msgid "I won't keep you any longer. Bye."
+msgstr "Je ne te retiens pas plus longtemps. A plus."
+
+msgid "I was supposed to tell you something else.... But I can't remember what it was."
+msgstr "J’étais censé te dire autre chose... Mais je ne m’en souviens pas."
+
+msgid "When it comes back to me I'll let you know, bye."
+msgstr "Quand ça me reviendra, je te le ferai savoir. À plus."
+

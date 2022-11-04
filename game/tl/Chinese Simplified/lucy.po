@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/game/tl/crowdin/labels/lucy.po\n"
+"X-Crowdin-File-ID: 977\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2021-09-12 16:23\n"
+
+msgid "[TALKmc00] Hey"
+msgstr ""
+
+msgid "[TALKmc02] Hi [lcy]..."
+msgstr ""
+
+msgid "[TALKlcy02] Ugh..."
+msgstr ""
+
+msgid "[TALKmc00] What are you doing?"
+msgstr ""
+
+msgid "[TALKlcy02] What does it look like I'm doing?"
+msgstr ""
+
+msgid "[TALKmc10] Do you need any help?"
+msgstr ""
+
+msgid "[TALKlcy06] From you... No, thanks! I don't need any help from you."
+msgstr ""
+
+msgid "[TALKmc03] {i}Mmm... Look at that those feet!!"
+msgstr ""
+
+msgid "[TALKmc03] {i}She's so hot!"
+msgstr ""
+
+msgid "[TALKmc06] Mhhh..."
+msgstr ""
+
+msgid "What should I tell [lcy] about her nails: [nointeract]"
+msgstr ""
+
+msgid "[TALKmc04] Why a transparent nail polish?! Isn't it useless?!"
+msgstr ""
+
+msgid "[TALKlcy06] I know, right?"
+msgstr ""
+
+msgid "[TALKmc00] Your nails are looking nice!"
+msgstr ""
+
+msgid "[TALKlcy06] Not really..."
+msgstr ""
+
+msgid "[TALKlcy02] I hate clear nail polish!"
+msgstr ""
+
+msgid "[TALKlcy05] Actually... I know how you could help me."
+msgstr ""
+
+msgid "[TALKlcy05] [liz] has this really nice nail polish that I'd like to use, but she'll never let me borrow it!"
+msgstr ""
+
+msgid "[TALKlcy07] It'd be great if you could... y'know... maybe steal it from her?"
+msgstr ""
+
+msgid "[TALKmc08] What? That's crazy! You're nuts!"
+msgstr ""
+
+msgid "[TALKmc08] She'll kill me if she finds out!"
+msgstr ""
+
+msgid "[TALKlcy07] Come on... you're my brave little [lcyR.MClabel]! Be a brave man and do it for me."
+msgstr ""
+
+msgid "[TALKmc06] {i}When she stretches her boobs like that... I would literally do anything for my [lcyR.NPClabel]"
+msgstr ""
+
+msgid "[TALKmc05] Okay, but you owe me one!"
+msgstr ""
+
+msgid "[TALKlcy03] Great, it's the pink one."
+msgstr ""
+
+msgid "[TALKlcy01] So?!"
+msgstr ""
+
+msgid "[TALKlcy] Were you able to get the nail polish? [nointeract]"
+msgstr ""
+
+msgid "[TALKlcy06] Come on! Don't leave me hanging!"
+msgstr ""
+
+msgid "[TALKlcy] Really?! Let me see! [nointeract]"
+msgstr ""
+
+msgid "[TALKlcy03] No way!"
+msgstr ""
+
+msgid "[TALKlcy05] It's a really nice color!"
+msgstr ""
+
+msgid "[TALKlcy01] Who would have thought that you have some useful skills!"
+msgstr ""
+
+msgid "[TALKlcy06] Go already!"
+msgstr ""
+
+msgid "[TALKlcy06] Give it to me!"
+msgstr ""
+
+msgid "[TALKmc06] {i}Hmm... Think [mc]..."
+msgstr ""
+
+msgid "{i}You owe me a favor: [nointeract]"
+msgstr ""
+
+msgid "[TALKmc10] Actually.... I was thinking you should let me do your nails for you."
+msgstr ""
+
+msgid "[TALKlcy07] What??"
+msgstr ""
+
+msgid "[TALKlcy06] Stop messing around, [mc]!"
+msgstr ""
+
+msgid "[TALKlcy02] Seriously [mc], I don't have time to fix my nails after you mess them up!"
+msgstr ""
+
+msgid "[TALKmc00] I am being serious, you should let me try!"
+msgstr ""
+
+msgid "[TALKmc04] Or I could return it to [liz]..."
+msgstr ""
+
+msgid "[TALKlcy06] You know what...it's fine!"
+msgstr ""
+
+msgid "[TALKlcy01] You deserve a chance!"
+msgstr ""
+
+msgid "[TALKlcy07] But you better apply it perfectly or you are doomed!"
+msgstr ""
+
+msgid "[TALKmc08] {i}Oh my god!!! I can't believe I'm actually going to touch her feet!"
+msgstr ""
+
+msgid "[TALKmc03] {i}This is awesome!!!"
+msgstr ""
+
+msgid "[TALKmc06] {i}She didn't notice...I can go further!"
+msgstr ""
+
+msgid "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.NPClabel]'s foot on my cock!"
+msgstr ""
+
+msgid "[TALKmc10] What's going on? [lcy]?!"
+msgstr ""
+
+msgid "[TALKlcy06] Easy [lcyN.MClabel] don't push it!"
+msgstr ""
+
+msgid "[TALKlcy02] That's enough for you!"
+msgstr ""
+
+msgid "[TALKlcy00] Nice! Where did you learn to do these things?"
+msgstr ""
+
+msgid "[TALKlcy05] They turned out great! Against all odds..."
+msgstr ""
+
+msgid "[TALKlcy05] Well..."
+msgstr ""
+
+msgid "[TALKlcy07] You did a good job boy"
+msgstr ""
+
+msgid "[TALKlcy05] Now go play somewhere else!"
+msgstr ""
+
+#    # game/labels/lucy.rpy:20
+msgid "They look bad"
+msgstr ""
+
+#    # game/labels/lucy.rpy:20
+msgid "They are coming along well"
+msgstr ""
+
+#    # game/labels/lucy.rpy:58
+msgid "Look some more"
+msgstr ""
+
+#    # game/labels/lucy.rpy:71
+msgid "Not so fast!"
+msgstr ""
+
+#    # game/labels/lucy.rpy:90
+msgid "Try to get a better feel"
+msgstr ""
+

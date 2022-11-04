@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Player [says] My name is:\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/characters_handler.po\n"
+"X-Crowdin-File-ID: 631\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2021-08-31 15:42\n"
+
+msgid "Player [says] My name is:"
+msgstr ""
+
+msgid "Player [says] My surname is:"
+msgstr ""
+

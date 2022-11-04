@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: ku\n"
+"X-Crowdin-File: /master/game/tl/crowdin/labels/anna.po\n"
+"X-Crowdin-File-ID: 967\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Kurdish\n"
+"Language: ku_TR\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
+
+msgid "[TALKmc03] Wow!!"
+msgstr ""
+
+msgid "[TALKmc00] Mmmm! It's fantastic!"
+msgstr ""
+
+msgid "[TALKmc08] WTF!"
+msgstr ""
+
+msgid "[TALKmc08] [annR.NPClabel] Huh?!"
+msgstr ""
+
+msgid "[TALKmc08] Mrs. [ann]?!"
+msgstr ""
+
+msgid "[TALKmc08] {i}Oh God!!! Was it just a dream. "
+msgstr ""
+
+msgid "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
+msgstr ""
+
+msgid "[TALKmc07] {i}Mhh... Better to hide this tent pole before..."
+msgstr ""
+
+msgid "(KNOCK KNOCK)"
+msgstr ""
+
+msgid "[TALKmc08] {i}Damn it!"
+msgstr ""
+
+msgid "[TALKann00] Good morning Bobby! Time to get up!"
+msgstr ""
+
+msgid "[TALKmc12] Yawn! Morning."
+msgstr ""
+
+msgid "[TALKann00] I'm doing laundry, do you have anything to wash?"
+msgstr ""
+
+msgid "[TALKmc07] Yawn! Sorry, I can't remember."
+msgstr ""
+
+msgid "[TALKann00] Let's see, I had left... ah! there it is!"
+msgstr ""
+
+msgid "[TALKann] What's the matter, honey? You're so quiet this morning. [nointeract]"
+msgstr ""
+
+msgid "[TALKmc00] I'm fine, I just a weird dream."
+msgstr ""
+
+msgid "[TALKann00] Tell me! What dream?"
+msgstr ""
+
+msgid "[TALKmc08] Ahahahah... emmm... it's a bit hard to explain."
+msgstr ""
+
+msgid "[TALKmc10] I really need a hug...."
+msgstr ""
+
+msgid "[TALKann00] Ahah! {p}Don't be silly."
+msgstr ""
+
+msgid "[TALKann00] I'll wash this for you!"
+msgstr ""
+
+msgid "[TALKmc10] {i}Oh fuck, what nice curves..."
+msgstr ""
+
+msgid "[TALKmc06] {i}Think [mc]..."
+msgstr ""
+
+msgid "What I could do now: [nointeract]"
+msgstr ""
+
+msgid "[TALKmc13] [annR.NPClabel] Huh?!"
+msgstr ""
+
+msgid "[TALKmc13] Mrs. [ann]?!"
+msgstr ""
+
+msgid "[TALKann02] Ohh, you scared me!"
+msgstr ""
+
+msgid "[TALKmc10] Here. Let me help you with the basket."
+msgstr ""
+
+msgid "[TALKann04] ... It's okay baby, I can do it!"
+msgstr ""
+
+msgid "[TALKmc03] {i}Oh my god!!! It feels so good!"
+msgstr ""
+
+msgid "[TALKmc00] Hey [annR.NPClabel]! Let me help you with this."
+msgstr ""
+
+msgid "[TALKann01] Oh honey, you're so sweet."
+msgstr ""
+
+msgid "[TALKmc08] ..."
+msgstr ""
+
+msgid "[TALKann03] It's okay, I can handle it."
+msgstr ""
+
+#    # game/labels/anna.rpy:56
+msgid "About the dream"
+msgstr "Darbaray Xawnka"
+
+#    # game/labels/anna.rpy:56
+msgid "I would like a hug"
+msgstr "Mn hazm la bawashiaka"
+
+#    # game/labels/anna.rpy:76
+msgid "Play a trick on her"
+msgstr ""
+
+#    # game/labels/anna.rpy:76
+msgid "Help her with the basket"
+msgstr "Yarmaty aw bda l sabataka"
+

@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/nav_value.po\n"
+"X-Crowdin-File-ID: 971\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2021-09-02 09:34\n"
+
+#    # game/tool/nav_value.rpy:1
+msgid "[mc] room"
+msgstr "[mc] room"
+
+#    # game/tool/nav_value.rpy:1
+msgid "[liz] room"
+msgstr "[liz] room"
+
+#    # game/tool/nav_value.rpy:1
+msgid "Lounge"
+msgstr "Lounge"
+
+#    # game/tool/nav_value.rpy:1
+msgid "Kitchen"
+msgstr "Kitchen"
+
+#    # game/tool/nav_value.rpy:8
+msgid "[mc] house"
+msgstr "[mc] house"
+

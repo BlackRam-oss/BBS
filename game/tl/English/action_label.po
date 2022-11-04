@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/action_label.po\n"
+"X-Crowdin-File-ID: 627\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2021-09-13 16:18\n"
+
+msgid "ERROR"
+msgstr "ERROR"
+
+msgid "In development"
+msgstr "In development"
+
+msgid "You want to become a ninja?! then what are you waiting for!"
+msgstr "You want to become a ninja?! Then what are you waiting for!"
+
+msgid "Start the game to level up the stealth."
+msgstr ""
+
+msgid "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
+msgstr "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
+
+msgid "And with each round you will increase your stealth by 1."
+msgstr "And with each round you will increase your stealth by 1."
+
+#    # game/tool/action_label.rpy:10
+msgid "Nap for 3 hours..."
+msgstr ""
+
+#    # game/tool/action_label.rpy:10
+msgid "Sleep"
+msgstr "Sleep"
+
+#    # game/tool/action_label.rpy:23
+msgid "What time do you want to set the alarm?"
+msgstr "What time do you want to set the alarm?"
+
+#    # game/tool/action_label.rpy:23
+msgid "[tm.hour_new_day]:00"
+msgstr ""
+
+#    # game/tool/action_label.rpy:23
+msgid "7:00"
+msgstr ""
+
+#    # game/tool/action_label.rpy:23
+msgid "9:00"
+msgstr ""
+
+#    # game/tool/action_label.rpy:67
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#    # game/tool/action_label.rpy:67
+msgid "Start training"
+msgstr "Start training"
+
+#    # game/tool/action_label.rpy:78
+msgid "{color=#00ff00}{b}+{/b} Stealth"
+msgstr "{color=#00ff00}{b}+{/b} Stealth"
+

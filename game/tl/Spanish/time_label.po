@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/time_label.po\n"
+"X-Crowdin-File-ID: 643\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2021-09-07 23:30\n"
+
+msgid "[block_spendtime_dialogue]"
+msgstr "[block_spendtime_dialogue]"
+
+msgid "(It's late, you have to go to bed)"
+msgstr "(Es tarde, tienes que irte a la cama)"
+
+#    # game/tool/time_label.rpy:4
+msgid "You can't do that now"
+msgstr "No puedes hacer eso ahora"
+

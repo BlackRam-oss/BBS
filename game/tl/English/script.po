@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /master/game/tl/crowdin/script.po\n"
+"X-Crowdin-File-ID: 625\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2021-09-12 16:24\n"
+
+msgid "Welcome to [config.name]"
+msgstr "Welcome to [config.name]"
+
+#    # game/script.rpy:12
+msgid "smurf"
+msgstr "smurf"
+
+#    # game/script.rpy:20
+msgid "dwarf"
+msgstr "dwarf"
+

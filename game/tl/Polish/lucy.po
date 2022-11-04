@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /master/game/tl/crowdin/labels/lucy.po\n"
+"X-Crowdin-File-ID: 977\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"PO-Revision-Date: 2021-11-27 22:46\n"
+
+msgid "[TALKmc00] Hey"
+msgstr "[TALKmc00] Hej"
+
+msgid "[TALKmc02] Hi [lcy]..."
+msgstr "[TALKmc02] Cześć [lcy]..."
+
+msgid "[TALKlcy02] Ugh..."
+msgstr "[TALKlcy02] Ugh..."
+
+msgid "[TALKmc00] What are you doing?"
+msgstr "[TALKmc00] Co robisz?"
+
+msgid "[TALKlcy02] What does it look like I'm doing?"
+msgstr "[TALKlcy02] A na co to wygląda, co robię?"
+
+msgid "[TALKmc10] Do you need any help?"
+msgstr "[TALKmc10] Potrzebujesz pomocy?"
+
+msgid "[TALKlcy06] From you... No, thanks! I don't need any help from you."
+msgstr "[TALKlcy06] Od Ciebie... Nie, dziękuję! Nie potrzebuję od ciebie żadnej pomocy."
+
+msgid "[TALKmc03] {i}Mmm... Look at that those feet!!"
+msgstr "[TALKmc03] {i}Mmm... Spójrz na te stopy!!"
+
+msgid "[TALKmc03] {i}She's so hot!"
+msgstr "[TALKmc03] {i}Ona jest taka gorąca!"
+
+msgid "[TALKmc06] Mhhh..."
+msgstr "[TALKmc06] Mhhh..."
+
+msgid "What should I tell [lcy] about her nails: [nointeract]"
+msgstr "Co powinienem [lcy] powiedzieć o jej paznokciach: [nointeract]"
+
+msgid "[TALKmc04] Why a transparent nail polish?! Isn't it useless?!"
+msgstr "[TALKmc04] Dlaczego przezroczysty lakier do paznokci?! Czy to nie jest bezużyteczne?!"
+
+msgid "[TALKlcy06] I know, right?"
+msgstr "[TALKlcy06] wiem, prawda?"
+
+msgid "[TALKmc00] Your nails are looking nice!"
+msgstr "[TALKmc00] Twoje paznokcie wyglądają ładnie!"
+
+msgid "[TALKlcy06] Not really..."
+msgstr "[TALKlcy06] Nie do końca..."
+
+msgid "[TALKlcy02] I hate clear nail polish!"
+msgstr "[TALKlcy02] Nienawidzę przezroczystego lakieru do paznokci!"
+
+msgid "[TALKlcy05] Actually... I know how you could help me."
+msgstr "[TALKlcy05] Właściwie... Wiem, jak mógłbyś mi pomóc."
+
+msgid "[TALKlcy05] [liz] has this really nice nail polish that I'd like to use, but she'll never let me borrow it!"
+msgstr "[TALKlcy05] [liz] ma ten naprawdę ładny lakier do paznokci, którego chciałbym użyć, ale nigdy nie pozwoli mi go pożyczyć!"
+
+msgid "[TALKlcy07] It'd be great if you could... y'know... maybe steal it from her?"
+msgstr "[TALKlcy07] Byłoby wspaniale, gdybyś mógł... Wiesz... może ją ukraść?"
+
+msgid "[TALKmc08] What? That's crazy! You're nuts!"
+msgstr "[TALKmc08] Co? To szaleństwo! Jesteś szalona!"
+
+msgid "[TALKmc08] She'll kill me if she finds out!"
+msgstr "[TALKmc08] Zabije mnie, jeśli się dowie!"
+
+msgid "[TALKlcy07] Come on... you're my brave little [lcyR.MClabel]! Be a brave man and do it for me."
+msgstr "[TALKlcy07] Daj spokój... jesteś moim dzielnym małym [lcyR.MClabel]! Bądź odważnym człowiekiem i zrób to dla mnie."
+
+msgid "[TALKmc06] {i}When she stretches her boobs like that... I would literally do anything for my [lcyR.NPClabel]"
+msgstr "[TALKmc06] {i}Kiedy tak rozciąga swoje cycki... Zrobiłbym dosłownie wszystko dla mojego [lcyR.NPClabel]"
+
+msgid "[TALKmc05] Okay, but you owe me one!"
+msgstr "[TALKmc05] Dobrze, ale jesteś mi winna jeden!"
+
+msgid "[TALKlcy03] Great, it's the pink one."
+msgstr "[TALKlcy03] Świetnie, to ten różowy."
+
+msgid "[TALKlcy01] So?!"
+msgstr "[TALKlcy01] Tak?!"
+
+msgid "[TALKlcy] Were you able to get the nail polish? [nointeract]"
+msgstr "[TALKlcy] Czy udało Ci się zdobyć lakier do paznokci? [nointeract]"
+
+msgid "[TALKlcy06] Come on! Don't leave me hanging!"
+msgstr "[TALKlcy06] Daj spokój! Nie zostawiaj mnie powieszonego!"
+
+msgid "[TALKlcy] Really?! Let me see! [nointeract]"
+msgstr "[TALKlcy] Naprawdę?! Niech spojrzę! [nointeract]"
+
+msgid "[TALKlcy03] No way!"
+msgstr "[TALKlcy03] Nie ma mowy!"
+
+msgid "[TALKlcy05] It's a really nice color!"
+msgstr "[TALKlcy05] To naprawdę ładny kolor!"
+
+msgid "[TALKlcy01] Who would have thought that you have some useful skills!"
+msgstr "[TALKlcy01] Kto by pomyślał, że masz przydatne umiejętności!"
+
+msgid "[TALKlcy06] Go already!"
+msgstr "[TALKlcy06] Idź już!"
+
+msgid "[TALKlcy06] Give it to me!"
+msgstr "[TALKlcy06] Daj mi to!"
+
+msgid "[TALKmc06] {i}Hmm... Think [mc]..."
+msgstr "[TALKmc06] {i}Hmm... Pomyśl [mc]..."
+
+msgid "{i}You owe me a favor: [nointeract]"
+msgstr "{i}Jesteś mi winna przysługę: [nointeract]"
+
+msgid "[TALKmc10] Actually.... I was thinking you should let me do your nails for you."
+msgstr "[TALKmc10] Właściwie... Myślałam, że powinnaś pozwolić mi zrobić za ciebie paznokcie."
+
+msgid "[TALKlcy07] What??"
+msgstr "[TALKlcy07] Co??"
+
+msgid "[TALKlcy06] Stop messing around, [mc]!"
+msgstr "[TALKlcy06] Przestań się bawić, [mc]!"
+
+msgid "[TALKlcy02] Seriously [mc], I don't have time to fix my nails after you mess them up!"
+msgstr "[TALKlcy02] Poważnie [mc], nie mam czasu na naprawianie paznokci po tym, jak je zepsujesz!"
+
+msgid "[TALKmc00] I am being serious, you should let me try!"
+msgstr "[TALKmc00] mówię poważnie, powinieneś pozwolić mi spróbować!"
+
+msgid "[TALKmc04] Or I could return it to [liz]..."
+msgstr "[TALKmc04] Albo mógłbym zwrócić go [liz]..."
+
+msgid "[TALKlcy06] You know what...it's fine!"
+msgstr "[TALKlcy06] Wiesz co... jest w porządku!"
+
+msgid "[TALKlcy01] You deserve a chance!"
+msgstr "[TALKlcy01] Zasługujesz na szansę!"
+
+msgid "[TALKlcy07] But you better apply it perfectly or you are doomed!"
+msgstr "[TALKlcy07] Ale lepiej zastosuj go doskonale, albo jesteś skazany na zagładę!"
+
+msgid "[TALKmc08] {i}Oh my god!!! I can't believe I'm actually going to touch her feet!"
+msgstr "[TALKmc08] {i}O mój Boże!!! Nie mogę uwierzyć, że dotknę jej stóp!"
+
+msgid "[TALKmc03] {i}This is awesome!!!"
+msgstr "[TALKmc03] {i}To jest niesamowite!!!"
+
+msgid "[TALKmc06] {i}She didn't notice...I can go further!"
+msgstr "[TALKmc06] {i}Nie zauważyła... Mogę pójść dalej!"
+
+msgid "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.NPClabel]'s foot on my cock!"
+msgstr "[TALKmc03] {i}O mój Boże!!! Czuję, jak moja [lcyR.NPClabel]stopa na moim kutasie!"
+
+msgid "[TALKmc10] What's going on? [lcy]?!"
+msgstr "[TALKmc10] Co się dzieje? [lcy]?!"
+
+msgid "[TALKlcy06] Easy [lcyN.MClabel] don't push it!"
+msgstr "[TALKlcy06] Spokojnie [lcyN.MClabel] nie naciskaj!"
+
+msgid "[TALKlcy02] That's enough for you!"
+msgstr "[TALKlcy02] To Ci wystarczy!"
+
+msgid "[TALKlcy00] Nice! Where did you learn to do these things?"
+msgstr "[TALKlcy00] Nieźle! Gdzie nauczyłeś się robić te rzeczy?"
+
+msgid "[TALKlcy05] They turned out great! Against all odds..."
+msgstr "[TALKlcy05] Okazałeś się świetny! Wbrew wszelkim przeciwnościom..."
+
+msgid "[TALKlcy05] Well..."
+msgstr "[TALKlcy05] Cóż..."
+
+msgid "[TALKlcy07] You did a good job boy"
+msgstr "[TALKlcy07] Zrobiłeś dobrą robotę chłopcze"
+
+msgid "[TALKlcy05] Now go play somewhere else!"
+msgstr "[TALKlcy05] Teraz idź grać gdzie indziej!"
+
+#    # game/labels/lucy.rpy:20
+msgid "They look bad"
+msgstr "One wyglądają źle"
+
+#    # game/labels/lucy.rpy:20
+msgid "They are coming along well"
+msgstr "Przychodzą dobrze"
+
+#    # game/labels/lucy.rpy:58
+msgid "Look some more"
+msgstr "Spójrz jeszcze trochę"
+
+#    # game/labels/lucy.rpy:71
+msgid "Not so fast!"
+msgstr "Nie tak szybko!"
+
+#    # game/labels/lucy.rpy:90
+msgid "Try to get a better feel"
+msgstr "Spróbuj uzyskać lepszy odczucie"
+

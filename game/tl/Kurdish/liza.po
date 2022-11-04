@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: ku\n"
+"X-Crowdin-File: /master/game/tl/crowdin/labels/liza.po\n"
+"X-Crowdin-File-ID: 989\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Kurdish\n"
+"Language: ku_TR\n"
+"PO-Revision-Date: 2021-09-17 16:34\n"
+
+msgid "[TALKliz00] Hey there [lizN.MClabel]!"
+msgstr ""
+
+msgid "[TALKliz01] Yawn! Be nice I forgot my cell phone in my room...go get it!"
+msgstr ""
+
+msgid "[TALKmc02] Okay"
+msgstr ""
+
+msgid "[TALKmc10] What about me?! What do I get in return?"
+msgstr ""
+
+msgid "[TALKliz04] For you?!"
+msgstr ""
+
+msgid "[TALKliz02] Haha! Well, I was thinking of making some eggs... what do you say?"
+msgstr ""
+
+msgid "[TALKmc00] Hmm... that's good"
+msgstr ""
+
+msgid "[TALKmc09] {i}Hmmm, Liza's phone! She's always on the phone, I wonder who she's chatting with. I might..."
+msgstr ""
+
+msgid "[TALKmc09] {i}Shit, she's got the password!"
+msgstr ""
+
+msgid "[TALKmc10] {i}Ah though! what a background... slutty."
+msgstr ""
+
+msgid "[TALKliz01] So..."
+msgstr ""
+
+msgid "[TALKliz] Did you get my phone? [nointeract]"
+msgstr ""
+
+msgid "[TALKliz06] Go look for it! What are you waiting for?!"
+msgstr ""
+
+msgid "[TALKliz08] Finally! What took you so long?"
+msgstr ""
+
+msgid "[TALKmc02] I had a little trouble finding it!"
+msgstr ""
+
+msgid "[TALKliz03] Bah, you are so weird! It was right on my nightstand."
+msgstr ""
+
+msgid "[TALKmc06] By the way, what's the password?"
+msgstr ""
+
+msgid "[TALKliz09] Excuse me?!! Why would you ask for it?"
+msgstr ""
+
+msgid "[TALKliz05] Wait, what did you want to look at?"
+msgstr ""
+
+msgid "[TALKmc08] I.. er.. nothing."
+msgstr ""
+
+msgid "[TALKliz02] Ha ha! You little pervert..."
+msgstr ""
+
+msgid "[TALKmc10] So where's my breakfast?"
+msgstr ""
+
+msgid "[TALKliz01] There's nothing for you here [lizN.MClabel]!"
+msgstr ""
+
+msgid "[TALKmc08] What??"
+msgstr "[TALKmc08] chiy??"
+
+msgid "[TALKmc11] But we had a deal!"
+msgstr "[TALKmc11] baĺam eiama mamaĺayakman krdbu!"
+
+msgid "[TALKliz03] I'm sorry, it's all for me because you don't deserve it!"
+msgstr "[TALKliz03] bbura, Hamuy bo mna labar away to shayany awa niy!"
+
+msgid "[TALKmc01] Okay, {p}All right, {p}I'm not hungry anyway!"
+msgstr "[TALKmc01] Basha, {p} basha, {p}mn brsy nim har chonyiak bet!"
+
+msgid "[TALKmc01] {i}I hate her!"
+msgstr "[TALKmc01] {i}rqm la awa!"
+
+msgid "[TALKmc02] {i}Guess I'll have to make do with a coffee."
+msgstr ""
+
+msgid "[TALKmc02] Hey, could you give me a coffee cup?"
+msgstr ""
+
+msgid "[TALKmc00] They are in that drawer"
+msgstr ""
+
+msgid "[TALKliz08] They are in the bottom drawer."
+msgstr ""
+
+msgid "[TALKmc08] {i}Wow, what a cute little butt!!"
+msgstr ""
+
+msgid "[TALKmc03] {i}Hmm...maybe I shouldn't stare at my [lizR.NPClabel]'s ass like that."
+msgstr ""
+
+msgid "[TALKmc03] {i}Hmm... maybe I shouldn't stare at it like that."
+msgstr ""
+
+msgid "[TALKmc03] {i}Damn [liz]! How can she be so sour, but so hot..."
+msgstr ""
+
+msgid "[TALKliz08] Catch!"
+msgstr ""
+
+msgid "[TALKmc00] Thanks!"
+msgstr ""
+
+msgid "[TALKmc02] {i}My stomach is growling... I'm so hungry!"
+msgstr ""
+
+msgid "[TALKmc07] {i}[liz]'s breakfast looks so good!"
+msgstr ""
+
+msgid "[TALKmc01] {i}Hmm... I'll get my revenge somehow."
+msgstr ""
+
+msgid "[TALKmc20] So how's the breakfast?"
+msgstr ""
+
+msgid "[TALKliz01] Mmmmmm"
+msgstr ""
+
+msgid "[TALKliz00] It's so good!"
+msgstr ""
+
+msgid "[TALKliz01] I am such a good cook!"
+msgstr ""
+
+msgid "[TALKliz02] Don't worry, you can eat some fruit from the table!"
+msgstr ""
+
+msgid "[TALKmc06] {i}I've got an idea! I can get my revenge now..."
+msgstr ""
+
+msgid "[TALKmc05] Ha ha! You don't know what you're missing... [ann] did buy them on special delivery yesterday."
+msgstr ""
+
+msgid "[TALKmc05] I have never had such delicous fruits, too bad they are all for me."
+msgstr ""
+
+msgid "Just because you're my [lizR.NPClabel], I could give you one: [nointeract]"
+msgstr ""
+
+msgid "[TALKliz04] Did you say in special delivery!?"
+msgstr ""
+
+msgid "[TALKmc00] Yes! You know, only [ann] knows where to buy quality fresh fruits, at a good price."
+msgstr ""
+
+msgid "[TALKliz04] Hmm... Okay! They say bPineapple are good for your fitness."
+msgstr ""
+
+msgid "[TALKmc04] Here, try one! It's so sweet."
+msgstr ""
+
+msgid "[TALKliz03] Haha, I'm not going to be fed by you!"
+msgstr ""
+
+msgid "[TALKmc10] Come on! Y'know you want to."
+msgstr ""
+
+msgid "[TALKmc00] You can have a little bite!"
+msgstr ""
+
+msgid "[TALKliz08] Ha ha ha seriously?! Get lost!"
+msgstr ""
+
+msgid "[TALKmc11] I'm not going anywhere until you have a bite!"
+msgstr ""
+
+msgid "[TALKliz08] Okay, but then leave me alone, you pervert!"
+msgstr ""
+
+msgid "[TALKliz06] Mmmmmmmm"
+msgstr ""
+
+msgid "[TALKliz06] (Cough...)"
+msgstr "[TALKliz06] (kokha...)"
+
+msgid "[TALKliz05] You're dead!!!"
+msgstr "[TALKliz05] To Mrduid!!!"
+
+msgid "[TALKmc12] Ow! Ow! You're hurting me!"
+msgstr ""
+
+msgid "[TALKmc07] {i}Ow! What a pain! But it was worth it!"
+msgstr ""
+
+msgid "[TALKmc05] {i}That was crazy!"
+msgstr ""
+
+msgid "[TALKmc04] {i}My sweet sweet revenge!"
+msgstr ""
+
+msgid "[TALKmc05] {i}I definitely should have pushed it deeper down her throat!"
+msgstr ""
+
+msgid "[TALKmc07] {i}...."
+msgstr ""
+
+msgid "[TALKmc07] {i}Damn!!!"
+msgstr ""
+
+msgid "[TALKmc07] {i}What's wrong with me ... she is my [lizR.NPClabel]!!"
+msgstr ""
+
+msgid "[TALKmc07] {i}She will probably tell [ann]..."
+msgstr "[TALKmc07] {i} aw lawanaya Bĺiat [ann]..."
+
+msgid "[TALKmc07] {i}Shit, I'll have to think of an excuse."
+msgstr "[TALKmc07] {i}Shit, peawesta ber la pasaweik bkamawa."
+
+msgid "[TALKliz04] Hmmm... also no... thanks!"
+msgstr "[TALKliz04] Hmmm... Harwa Na... supas!"
+
+msgid "[TALKliz10] Just give a little taste."
+msgstr ""
+
+msgid "[TALKliz05] NO! go away! before I call [ann]."
+msgstr "[TALKliz05] Naxer! Dur bkawa! Beash away talafon bkam [ann]."
+
+msgid "[TALKmc07] Damn!!!"
+msgstr "[TALKmc07] Nafrat!!!"
+
+msgid "[TALKmc07] I failed! I must think of another way for revenge."
+msgstr "[TALKmc07] Mn shkstm hena! Mn dabet ber la regayaky tr bkamawa bo tolsandnowa."
+
+msgid "(A few hours later)"
+msgstr "(Chant katzhmerky tr)"
+
+msgid "[TALKmc01] {i}Shit, [liz] is talking on the phone!!"
+msgstr "[TALKmc01] {i}Nafrat, [liz] iaw talafon dakat!!"
+
+msgid "[TALKmc06] {i}Maybe she won't notice if I sneak around..."
+msgstr "[TALKmc06] {i} lawanaya aw sarnj nadat agar dza bkam..."
+
+msgid "{i}OK! After this [lcy] will owe me a favor: [nointeract]"
+msgstr ""
+
+msgid "[TALKmc04] {i}Are you ready Ninja?!"
+msgstr "[TALKmc04] {i}Aya amaday Ninja?!"
+
+msgid "[TALKmc07] {i}Hmm... I don't think I'm ready yet."
+msgstr "[TALKmc07] {i}Hmm... wabzanm heshta amada nim."
+
+msgid "[TALKmc06] {i}But first I need to warm up a bit in my room."
+msgstr ""
+
+msgid "[TALKmc07] {i}Mhh... I should warm up a bit first, in my room there is in carpet where I can do that."
+msgstr ""
+
+msgid "[TALKmc04] {i}Aha! Found it!"
+msgstr ""
+
+msgid "[TALKliz09] Asshole!!!"
+msgstr ""
+
+msgid "[TALKmc08] {i}WTF"
+msgstr ""
+
+msgid "[TALKliz09] No way [mik]!"
+msgstr ""
+
+msgid "[TALKmc08] {i}Fuck!"
+msgstr ""
+
+msgid "[TALKmc00] {i}Saved by the skin of my teeth!"
+msgstr ""
+
+msgid "[TALKliz05] You promised me you would delete those pictures!"
+msgstr ""
+
+msgid "[TALKmc07] {i}Photos? Who the fuck is [mik]?"
+msgstr ""
+
+msgid "[TALKliz05] No, [mik]!"
+msgstr ""
+
+msgid "[TALKliz07] Please...don't!"
+msgstr ""
+
+msgid "[TALKliz07] You don't have to say anything to my boyfriend!"
+msgstr ""
+
+msgid "[TALKmc08] {i}Oh my god! I think this [mik] guy is blackmailing her!"
+msgstr ""
+
+msgid "[TALKliz09] Absolutely not!"
+msgstr ""
+
+msgid "[TALKliz06] That's what you said last time!"
+msgstr ""
+
+msgid "[TALKliz07] I can't do this again... please."
+msgstr ""
+
+msgid "[TALKliz07] Don't do that!"
+msgstr "[TALKliz07] awa maka!"
+
+msgid "[TALKliz05] Never!!! Fuck you!"
+msgstr ""
+
+msgid "[TALKmc01] {i}Grrr... I don't like this [mik]. I'm going to have to deal with it...."
+msgstr ""
+
+msgid "[TALKmc07] {i}I need to find out more about these photos but I need to get out of here first!"
+msgstr ""
+
+msgid "[TALKmc06] {i}Hmmm... [liz] is not in her room!"
+msgstr ""
+
+msgid "[TALKmc09] {i}But she left his phone here!!"
+msgstr ""
+
+msgid "[TALKmc09] {i}I need to find a way to unlock it!"
+msgstr ""
+
+msgid "[TALKmc07] {i}I better go think about this in my room."
+msgstr ""
+
+msgid "{i}So, how do I unlock [liz]'s phone?"
+msgstr ""
+
+msgid "{i}Hmm....."
+msgstr ""
+
+msgid "{i}Maybe I could find some kind of invisible ink and spread it on her phone."
+msgstr ""
+
+msgid "{i}Maybe I could find some kind of invisible ink and spread it on her phone."
+msgstr ""
+
+msgid "{i}It just might work!!!"
+msgstr ""
+
+msgid "{i}All I need is a UV flashlight and some invisible ink!"
+msgstr ""
+
+msgid "{i}I have a UV flashlight, but where can I find the invisible ink?"
+msgstr ""
+
+msgid "{i}I need to google this!"
+msgstr ""
+
+msgid "[TALKmc08] {i}Wait, what?!"
+msgstr ""
+
+msgid "[TALKmc00] {i}LOL!!!"
+msgstr ""
+
+msgid "[TALKmc05] {i}Hah, who would've known!"
+msgstr ""
+
+msgid "[TALKmc04] {i}It says here that semen glows under a UV light."
+msgstr ""
+
+msgid "[TALKmc06] {i}Well..."
+msgstr "[TALKmc06] {i}Basha..."
+
+msgid "[TALKmc06] {i}Let's do it!"
+msgstr "[TALKmc06] {i}Ba anjamy bdayin!"
+
+msgid "[TALKmc03] {i}She is so sexy"
+msgstr "[TALKmc03] {i} aw Kchiaky zor seksia"
+
+msgid "[TALKmc03] {i}Let's do it"
+msgstr "[TALKmc03] {i} Ba anjamy bdayn"
+
+msgid "[TALKmc03] {i}Wow nice. Now I need to rub it gently and run away."
+msgstr ""
+
+#    # game/labels/liza.rpy:5
+msgid "Okay"
+msgstr "Basha"
+
+#    # game/labels/liza.rpy:5
+msgid "What about me?!"
+msgstr "Chy sparat ba mn?!"
+
+#    # game/labels/liza.rpy:15
+msgid "Liza smartphone"
+msgstr "Mobily liza"
+
+#    # game/labels/liza.rpy:34
+msgid "Indeed!"
+msgstr "Ba Rasty!"
+
+#    # game/labels/liza.rpy:34
+msgid "Not yet!"
+msgstr "Heiashta Na!"
+
+#    # game/labels/liza.rpy:43
+msgid "I couldn't find it"
+msgstr "Mn Namtwany Bedwozmaua"
+
+#    # game/labels/liza.rpy:43
+msgid "About your password..."
+msgstr "Darbaray wshaynheinyakait..."
+
+#    # game/labels/liza.rpy:96
+msgid "Pineapple"
+msgstr "Ananas"
+
+#    # game/labels/liza.rpy:96
+msgid "Banana"
+msgstr "Moz"
+
+#    # game/labels/liza.rpy:96
+msgid "Kiwi"
+msgstr "Kewy"
+
+#    # game/labels/liza.rpy:182
+msgid "Do it now"
+msgstr "Esat bekan"
+
+#    # game/labels/liza.rpy:182
+msgid "Not yet"
+msgstr "Heshta Na"
+

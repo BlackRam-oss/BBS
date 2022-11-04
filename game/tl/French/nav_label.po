@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/nav_label.po\n"
+"X-Crowdin-File-ID: 633\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2021-08-29 15:37\n"
+
+msgid "[block_goout_dialogue]"
+msgstr ""
+
+#    # game/tool/nav_label.rpy:28
+msgid "Now is not the time to go outside"
+msgstr "Ce n’est pas le moment de sortir"
+

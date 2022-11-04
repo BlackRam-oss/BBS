@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/game/tl/crowdin/labels/liza.po\n"
+"X-Crowdin-File-ID: 989\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2021-09-16 16:28\n"
+
+msgid "[TALKliz00] Hey there [lizN.MClabel]!"
+msgstr "[TALKliz00] Salut [lizN.MClabel]!"
+
+msgid "[TALKliz01] Yawn! Be nice I forgot my cell phone in my room...go get it!"
+msgstr "[TALKliz01] Yawn ! Sois gentil, j'ai oublié mon téléphone dans ma chambre... Va le chercher !"
+
+msgid "[TALKmc02] Okay"
+msgstr "[TALKmc02] D’accord"
+
+msgid "[TALKmc10] What about me?! What do I get in return?"
+msgstr "[TALKmc10] Et moi ?! Qu’est-ce que j’ai en retour ?"
+
+msgid "[TALKliz04] For you?!"
+msgstr "[TALKliz04] Pour toi ?!"
+
+msgid "[TALKliz02] Haha! Well, I was thinking of making some eggs... what do you say?"
+msgstr "[TALKliz02] Haha! Eh bien, je pensais faire des œufs... qu’en dites-vous ?"
+
+msgid "[TALKmc00] Hmm... that's good"
+msgstr "[TALKmc00] Hum... C'est bien"
+
+msgid "[TALKmc09] {i}Hmmm, Liza's phone! She's always on the phone, I wonder who she's chatting with. I might..."
+msgstr "[TALKmc09] {i}Hmmm, le téléphone de Liza! Elle est toujours au téléphone, je me demande avec qui elle discute. Je pourrais..."
+
+msgid "[TALKmc09] {i}Shit, she's got the password!"
+msgstr "[TALKmc09] {i}merde, elle a un mot de passe!"
+
+msgid "[TALKmc10] {i}Ah though! what a background... slutty."
+msgstr "[TALKmc10] {i}Ah ! quel contexte... salope."
+
+msgid "[TALKliz01] So..."
+msgstr "[TALKliz01] Donc..."
+
+msgid "[TALKliz] Did you get my phone? [nointeract]"
+msgstr "[TALKliz] As-tu récupérer mon téléphone? [nointeract]"
+
+msgid "[TALKliz06] Go look for it! What are you waiting for?!"
+msgstr "[TALKliz06] Va le chercher ! T'attends quoi?!"
+
+msgid "[TALKliz08] Finally! What took you so long?"
+msgstr "[TALKliz08] Pas trop tôt! Qu'est-ce qui t'a pris si longtemps?"
+
+msgid "[TALKmc02] I had a little trouble finding it!"
+msgstr "[TALKmc02] j’ai eu un peu de mal à le trouver !"
+
+msgid "[TALKliz03] Bah, you are so weird! It was right on my nightstand."
+msgstr "[TALKliz03] Bah, t'es trop bizarre! c’était juste sur ma table de nuit."
+
+msgid "[TALKmc06] By the way, what's the password?"
+msgstr "[TALKmc06] Au fait, c'est quoi le mot de passe?"
+
+msgid "[TALKliz09] Excuse me?!! Why would you ask for it?"
+msgstr "[TALKliz09] Pardon?!! Pourquoi me demandes tu ça?"
+
+msgid "[TALKliz05] Wait, what did you want to look at?"
+msgstr "[TALKliz05] Attend, que veux tu regarder ?"
+
+msgid "[TALKmc08] I.. er.. nothing."
+msgstr "[TALKmc08] I.. euh.. pour rien."
+
+msgid "[TALKliz02] Ha ha! You little pervert..."
+msgstr "[TALKliz02] Ha ha! Petit pervers..."
+
+msgid "[TALKmc10] So where's my breakfast?"
+msgstr "[TALKmc10] Où est mon petit déjeuner ?"
+
+msgid "[TALKliz01] There's nothing for you here [lizN.MClabel]!"
+msgstr "[TALKliz01] Il n’y a rien ici pour toi, [lizN.MClabel]!"
+
+msgid "[TALKmc08] What??"
+msgstr "[TALKmc08] Quoi??"
+
+msgid "[TALKmc11] But we had a deal!"
+msgstr "[TALKmc11] Mais nous avions passé un accord !"
+
+msgid "[TALKliz03] I'm sorry, it's all for me because you don't deserve it!"
+msgstr "[TALKliz03] je suis désolé, c’est tout pour moi parce que tu ne le mérites pas!"
+
+msgid "[TALKmc01] Okay, {p}All right, {p}I'm not hungry anyway!"
+msgstr "[TALKmc01] Ok, {p}D'accord, {p}je n'ai pas faim de toute façon!"
+
+msgid "[TALKmc01] {i}I hate her!"
+msgstr "[TALKmc01] {i}je la déteste !"
+
+msgid "[TALKmc02] {i}Guess I'll have to make do with a coffee."
+msgstr "[TALKmc02] {i}Je suppose que je vais devoir me contenter d’un café."
+
+msgid "[TALKmc02] Hey, could you give me a coffee cup?"
+msgstr "[TALKmc02] Hey, tu peux me servir une tasse de café?"
+
+msgid "[TALKmc00] They are in that drawer"
+msgstr "[TALKmc00] Ils sont dans ce tiroir"
+
+msgid "[TALKliz08] They are in the bottom drawer."
+msgstr "[TALKliz08] Ils sont dans le tiroir du bas."
+
+msgid "[TALKmc08] {i}Wow, what a cute little butt!!"
+msgstr "[TALKmc08] {i}Wow, quel joli petit cul!!"
+
+msgid "[TALKmc03] {i}Hmm...maybe I shouldn't stare at my [lizR.NPClabel]'s ass like that."
+msgstr "[TALKmc03] {i}Hmm... peut-être que je ne devrais pas regarder les fesses de ma [lizR.NPClabel] comme ça."
+
+msgid "[TALKmc03] {i}Hmm... maybe I shouldn't stare at it like that."
+msgstr "[TALKmc03] {i}Hmm... peut-être que je ne devrais pas y regarder comme ça."
+
+msgid "[TALKmc03] {i}Damn [liz]! How can she be so sour, but so hot..."
+msgstr "[TALKmc03] {i}Merde! [liz] comment peut-elle être si aigrie, mais si chaude..."
+
+msgid "[TALKliz08] Catch!"
+msgstr "[TALKliz08] Vu!"
+
+msgid "[TALKmc00] Thanks!"
+msgstr "[TALKmc00] Merci!"
+
+msgid "[TALKmc02] {i}My stomach is growling... I'm so hungry!"
+msgstr "[TALKmc02] {i}Mon estomac gargouille... J'ai trop faim!"
+
+msgid "[TALKmc07] {i}[liz]'s breakfast looks so good!"
+msgstr "Le petit déjeuner de [TALKmc07] {i}[liz] a l'air si bon!"
+
+msgid "[TALKmc01] {i}Hmm... I'll get my revenge somehow."
+msgstr "[TALKmc01] {i}Hmm... Je vais me venger d’une manière ou d’une autre."
+
+msgid "[TALKmc20] So how's the breakfast?"
+msgstr "[TALKmc20] Alors, comment est le petit-déjeuner?"
+
+msgid "[TALKliz01] Mmmmmm"
+msgstr "[TALKliz01] Mmmmmm"
+
+msgid "[TALKliz00] It's so good!"
+msgstr "[TALKliz00] C’est tellement bon!"
+
+msgid "[TALKliz01] I am such a good cook!"
+msgstr "[TALKliz01] je suis un bon cuisinier!"
+
+msgid "[TALKliz02] Don't worry, you can eat some fruit from the table!"
+msgstr "[TALKliz02] Ne t'inquiètes pas, tu peux manger des fruits sur la table!"
+
+msgid "[TALKmc06] {i}I've got an idea! I can get my revenge now..."
+msgstr "[TALKmc06] {i}j’ai une idée ! Je vais pouvoir me venger maintenant..."
+
+msgid "[TALKmc05] Ha ha! You don't know what you're missing... [ann] did buy them on special delivery yesterday."
+msgstr "[TALKmc05] Ha ha ! Vous ne savez pas ce que vous ratez... [ann] les a achetés à l'occasion d'une livraison spéciale hier."
+
+msgid "[TALKmc05] I have never had such delicous fruits, too bad they are all for me."
+msgstr "[TALKmc05] Je n'ai jamais eu de fruits aussi délicieux, dommage ils sont tous pour moi."
+
+msgid "Just because you're my [lizR.NPClabel], I could give you one: [nointeract]"
+msgstr "Juste parce que tu es mon [lizR.NPClabel], je pourrais t'en donner un: [nointeract]"
+
+msgid "[TALKliz04] Did you say in special delivery!?"
+msgstr "[TALKliz04] Avez-vous dit en livraison spéciale!?"
+
+msgid "[TALKmc00] Yes! You know, only [ann] knows where to buy quality fresh fruits, at a good price."
+msgstr "[TALKmc00] Oui ! tu sais, seul [ann] sait où acheter des fruits frais de qualité, à un bon prix."
+
+msgid "[TALKliz04] Hmm... Okay! They say bPineapple are good for your fitness."
+msgstr "[TALKliz04] Hmm... D'accord! On dit que l'ananas est bon pour ta forme physique."
+
+msgid "[TALKmc04] Here, try one! It's so sweet."
+msgstr "[TALKmc04] Ici, essayez-en un! C’est tellement doux."
+
+msgid "[TALKliz03] Haha, I'm not going to be fed by you!"
+msgstr "[TALKliz03] Haha, je ne vais pas être nourri par toi!"
+
+msgid "[TALKmc10] Come on! Y'know you want to."
+msgstr "[TALKmc10] Allez! Tu sais que tu veux aussi."
+
+msgid "[TALKmc00] You can have a little bite!"
+msgstr "Tu peux en avoir un peu !"
+
+msgid "[TALKliz08] Ha ha ha seriously?! Get lost!"
+msgstr "[TALKliz08] Ha ha ha sérieusement?! Va te faire voir!"
+
+msgid "[TALKmc11] I'm not going anywhere until you have a bite!"
+msgstr "[TALKmc11] je n’irai nulle part tant que tu n'en as pas un peu!"
+
+msgid "[TALKliz08] Okay, but then leave me alone, you pervert!"
+msgstr "[TALKliz08] Ok, après ça laisse-moi seul, espèce de pervers !"
+
+msgid "[TALKliz06] Mmmmmmmm"
+msgstr "[TALKliz06] Mmmmmmmm"
+
+msgid "[TALKliz06] (Cough...)"
+msgstr "[TALKliz06] (Tousse ...)"
+
+msgid "[TALKliz05] You're dead!!!"
+msgstr "[TALKliz05] Tu es mort!!!"
+
+msgid "[TALKmc12] Ow! Ow! You're hurting me!"
+msgstr "[TALKmc12] Aie! Aie! Tu me fais mal !"
+
+msgid "[TALKmc07] {i}Ow! What a pain! But it was worth it!"
+msgstr "[TALKmc07] {i}Aie! Quelle douleur ! Mais ça en valait la peine !"
+
+msgid "[TALKmc05] {i}That was crazy!"
+msgstr "[TALKmc05] {i}C’était fou !"
+
+msgid "[TALKmc04] {i}My sweet sweet revenge!"
+msgstr "[TALKmc04] {i}Ma douce vengeance !"
+
+msgid "[TALKmc05] {i}I definitely should have pushed it deeper down her throat!"
+msgstr "[TALKmc05] {i}J'aurais certainement dû la pousser plus profondément dans sa gorge !"
+
+msgid "[TALKmc07] {i}...."
+msgstr "[TALKmc07] {i} Bien ...."
+
+msgid "[TALKmc07] {i}Damn!!!"
+msgstr "[TALKmc07] {i}Bon sang!!!"
+
+msgid "[TALKmc07] {i}What's wrong with me ... she is my [lizR.NPClabel]!!"
+msgstr "[TALKmc07] {i}Qu'est-ce qui cloche chez moi ... c'est ma [lizR.NPClabel]!!"
+
+msgid "[TALKmc07] {i}She will probably tell [ann]..."
+msgstr "[TALKmc07] {i}Elle va probablement dire [ann]..."
+
+msgid "[TALKmc07] {i}Shit, I'll have to think of an excuse."
+msgstr "[TALKmc07] {i}Merde, je vais devoir penser à un excuse."
+
+msgid "[TALKliz04] Hmmm... also no... thanks!"
+msgstr "[TALKliz04] Hmmm... non plus... merci!"
+
+msgid "[TALKliz10] Just give a little taste."
+msgstr "[TALKliz10] Donner juste un peu de goût."
+
+msgid "[TALKliz05] NO! go away! before I call [ann]."
+msgstr "[TALKliz05] NON ! Dégage! avant que j’appelle [ann]."
+
+msgid "[TALKmc07] Damn!!!"
+msgstr "[TALKmc07] Merde!!!"
+
+msgid "[TALKmc07] I failed! I must think of another way for revenge."
+msgstr "[TALKmc07] Je n'ai pas réussi ! Je dois penser à un autre moyen de me venger."
+
+msgid "(A few hours later)"
+msgstr "(Quelques heures plus tard)"
+
+msgid "[TALKmc01] {i}Shit, [liz] is talking on the phone!!"
+msgstr "[TALKmc01] {i}Merde, [liz] parle au téléphone !!"
+
+msgid "[TALKmc06] {i}Maybe she won't notice if I sneak around..."
+msgstr "[TALKmc06] {i}Peut-être qu’elle ne remarquera pas si je me faufile..."
+
+msgid "{i}OK! After this [lcy] will owe me a favor: [nointeract]"
+msgstr "{i}d’accord! Après ça [lcy] me devras une faveur: [nointeract]"
+
+msgid "[TALKmc04] {i}Are you ready Ninja?!"
+msgstr "[TALKmc04] {i}Es-tu prêt Ninja?!"
+
+msgid "[TALKmc07] {i}Hmm... I don't think I'm ready yet."
+msgstr "[TALKmc07] {i}Hmm ... Je ne pense pas être encore prêt."
+
+msgid "[TALKmc06] {i}But first I need to warm up a bit in my room."
+msgstr "[TALKmc06] {i}Mais je dois d'abord m'échauffer un peu dans ma chambre."
+
+msgid "[TALKmc07] {i}Mhh... I should warm up a bit first, in my room there is in carpet where I can do that."
+msgstr "[TALKmc07] {i}Mhh... Je devrais d’abord m'échauffer un peu, dans ma chambre, il y a dans le tapis où je peux le faire."
+
+msgid "[TALKmc04] {i}Aha! Found it!"
+msgstr "[TALKmc04] {i}Ah! Je l’ai trouvé!"
+
+msgid "[TALKliz09] Asshole!!!"
+msgstr "[TALKliz09] Connard!!!"
+
+msgid "[TALKmc08] {i}WTF"
+msgstr "[TALKmc08] {i}c’est quoi ce bordel"
+
+msgid "[TALKliz09] No way [mik]!"
+msgstr "[TALKliz09] Pas moyen[mik]!"
+
+msgid "[TALKmc08] {i}Fuck!"
+msgstr "[TALKmc08] {i}Putain!"
+
+msgid "[TALKmc00] {i}Saved by the skin of my teeth!"
+msgstr "[TALKmc00] {i}Sauvé de justesse!"
+
+msgid "[TALKliz05] You promised me you would delete those pictures!"
+msgstr "[TALKliz05] Tu m'avais promis de supprimer ces photos !"
+
+msgid "[TALKmc07] {i}Photos? Who the fuck is [mik]?"
+msgstr "[TALKmc07] {i}Photos? Qui est ce putain de [mik]?"
+
+msgid "[TALKliz05] No, [mik]!"
+msgstr "[TALKliz05] Non, [mik]!"
+
+msgid "[TALKliz07] Please...don't!"
+msgstr "[TALKliz07] S'il te plaît, ne le fais pas!"
+
+msgid "[TALKliz07] You don't have to say anything to my boyfriend!"
+msgstr "[TALKliz07] Tu n'es pas obligé de le dire à mon petit ami!"
+
+msgid "[TALKmc08] {i}Oh my god! I think this [mik] guy is blackmailing her!"
+msgstr "[TALKmc08] {i}Oh mon dieu! Je pense que ce type [mik] fait du chantage !"
+
+msgid "[TALKliz09] Absolutely not!"
+msgstr "[TALKliz09] Absolument pas !"
+
+msgid "[TALKliz06] That's what you said last time!"
+msgstr "[TALKliz06] C'est ce que tu as dit la dernière fois !"
+
+msgid "[TALKliz07] I can't do this again... please."
+msgstr "[TALKliz07] Je ne peux plus continuer ... s'il te plaît."
+
+msgid "[TALKliz07] Don't do that!"
+msgstr "[TALKliz07] Ne fais pas ça !"
+
+msgid "[TALKliz05] Never!!! Fuck you!"
+msgstr "[TALKliz05] Jamais!!! Va te faire foutre!"
+
+msgid "[TALKmc01] {i}Grrr... I don't like this [mik]. I'm going to have to deal with it...."
+msgstr "[TALKmc01] {i}Grrr... Je n’aime pas ça [mik]. Je vais devoir m’en occuper..."
+
+msgid "[TALKmc07] {i}I need to find out more about these photos but I need to get out of here first!"
+msgstr "[TALKmc07] {i}j’ai besoin d’en savoir plus sur ces photos mais je dois d’abord sortir d’ici!"
+
+msgid "[TALKmc06] {i}Hmmm... [liz] is not in her room!"
+msgstr "[TALKmc06] {i}Hmmm... [liz] n’est pas dans sa chambre !"
+
+msgid "[TALKmc09] {i}But she left his phone here!!"
+msgstr "[TALKmc09] {i}Mais elle a laissé son téléphone ici !!"
+
+msgid "[TALKmc09] {i}I need to find a way to unlock it!"
+msgstr "[TALKmc09] {i}je dois trouver un moyen de le déverrouiller!"
+
+msgid "[TALKmc07] {i}I better go think about this in my room."
+msgstr "[TALKmc07] {i}je ferais mieux d’y penser dans ma chambre."
+
+msgid "{i}So, how do I unlock [liz]'s phone?"
+msgstr "{i}Alors, comment puis-je déverrouiller le téléphone de [liz]?"
+
+msgid "{i}Hmm....."
+msgstr "{i}Hmm....."
+
+msgid "{i}Maybe I could find some kind of invisible ink and spread it on her phone."
+msgstr "{i}Peut-être ai-je trouvé une sorte d'encre invisible et je la répandais sur son téléphone."
+
+msgid "{i}Maybe I could find some kind of invisible ink and spread it on her phone."
+msgstr "{i}Peut-être devrais-je trouver une sorte d'encre invisible et je la répandais sur son téléphone."
+
+msgid "{i}It just might work!!!"
+msgstr "{i}Ça pourrait fonctionner !!!"
+
+msgid "{i}All I need is a UV flashlight and some invisible ink!"
+msgstr "{i}Tout ce dont j’ai besoin, c’est d’une lampe UV et d’encre invisible!"
+
+msgid "{i}I have a UV flashlight, but where can I find the invisible ink?"
+msgstr "{i}j’ai une lampe UV, mais où trouver de l’encre invisible?"
+
+msgid "{i}I need to google this!"
+msgstr "{i}j’ai besoin de googler ceci!"
+
+msgid "[TALKmc08] {i}Wait, what?!"
+msgstr "[TALKmc08] {i}Attend, quoi?!"
+
+msgid "[TALKmc00] {i}LOL!!!"
+msgstr "[TALKmc00] {i}LOL!!!"
+
+msgid "[TALKmc05] {i}Hah, who would've known!"
+msgstr "[TALKmc05] {i}Hah, qui l’aurait su !"
+
+msgid "[TALKmc04] {i}It says here that semen glows under a UV light."
+msgstr "[TALKmc04] {i}Il est dit ici que le sperme luit sous une lumière UV."
+
+msgid "[TALKmc06] {i}Well..."
+msgstr "[TALKmc06] {i}Bien ..."
+
+msgid "[TALKmc06] {i}Let's do it!"
+msgstr "[TALKmc06] {i}Faisons-le!"
+
+msgid "[TALKmc03] {i}She is so sexy"
+msgstr "[TALKmc03] {i}Elle est si sexy"
+
+msgid "[TALKmc03] {i}Let's do it"
+msgstr "[TALKmc03] {i}Faisons-le"
+
+msgid "[TALKmc03] {i}Wow nice. Now I need to rub it gently and run away."
+msgstr "[TALKmc03] {i}Wow sympa. Maintenant j'ai besoin de la frotter doucement et de fuir."
+
+#    # game/labels/liza.rpy:5
+msgid "Okay"
+msgstr "D’accord"
+
+#    # game/labels/liza.rpy:5
+msgid "What about me?!"
+msgstr "Et moi?!"
+
+#    # game/labels/liza.rpy:15
+msgid "Liza smartphone"
+msgstr "Téléphone portable de Liza"
+
+#    # game/labels/liza.rpy:34
+msgid "Indeed!"
+msgstr "Effectivement!"
+
+#    # game/labels/liza.rpy:34
+msgid "Not yet!"
+msgstr "Pas encore!"
+
+#    # game/labels/liza.rpy:43
+msgid "I couldn't find it"
+msgstr "Je ne l’ai pas trouvé"
+
+#    # game/labels/liza.rpy:43
+msgid "About your password..."
+msgstr "À propos de ton mot de passe..."
+
+#    # game/labels/liza.rpy:96
+msgid "Pineapple"
+msgstr "Ananas"
+
+#    # game/labels/liza.rpy:96
+msgid "Banana"
+msgstr "Banane"
+
+#    # game/labels/liza.rpy:96
+msgid "Kiwi"
+msgstr "Kiwi"
+
+#    # game/labels/liza.rpy:182
+msgid "Do it now"
+msgstr "Fais le maintenant"
+
+#    # game/labels/liza.rpy:182
+msgid "Not yet"
+msgstr "Pas encore"
+

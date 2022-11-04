@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: ku\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/screens.po\n"
+"X-Crowdin-File-ID: 637\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Kurdish\n"
+"Language: ku_TR\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
+
+#    # game/tool/screens.rpy:254
+msgid "Talk"
+msgstr "qsa krdn"
+
+#    # game/tool/screens.rpy:262
+msgid "Wait"
+msgstr "Chawaria bka"
+
+#    # game/tool/screens.rpy:304
+msgid "Settings"
+msgstr "Reakxestn"
+
+#    # game/tool/screens.rpy:314
+msgid "Characters info"
+msgstr "Zaniary karaktaran"
+
+#    # game/tool/screens.rpy:325
+msgid "Memo"
+msgstr "Padasht"
+
+#    # game/tool/screens.rpy:356
+msgid "Backpack"
+msgstr ""
+
+#    # game/tool/screens.rpy:366
+msgid "Smartphone"
+msgstr "Mobil"
+
+#    # game/tool/screens.rpy:376
+msgid "Map"
+msgstr "Naxesha"
+
+#    # game/tool/screens.rpy:482
+msgid "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
+msgstr ""
+
+#    # game/tool/screens.rpy:484
+msgid "You have completed all the quests."
+msgstr "To Hamu aw Garananat Tawaw Krdwa."
+

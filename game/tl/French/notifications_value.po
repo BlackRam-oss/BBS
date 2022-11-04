@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/notifications_value.po\n"
+"X-Crowdin-File-ID: 635\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2021-09-03 12:56\n"
+
+#    # game/tool/notifications_value.rpy:1
+msgid "Is against a love affair with you"
+msgstr "Est opposé à toute histoire d’amour avec vous"
+
+#    # game/tool/notifications_value.rpy:2
+msgid "Has too much fear of you for a love affair"
+msgstr "A trop peur de vous pour une relation amoureuse"
+
+#    # game/tool/notifications_value.rpy:4
+msgid "{color=#00ff00}{b}+{/b} Energy"
+msgstr "{color=#00ff00}{b}+{/b} Énergie"
+
+#    # game/tool/notifications_value.rpy:5
+msgid "{color=#f00} {b}-{/b} Energy"
+msgstr "{color=#f00} {b}-{/b} Énergie"
+
+#    # game/tool/notifications_value.rpy:6
+msgid "{color=#00ff00}{b}+{/b} Willpower"
+msgstr "{color=#00ff00}{b}+{/b} Volonté"
+
+#    # game/tool/notifications_value.rpy:7
+msgid "{color=#f00} {b}-{/b} Willpower"
+msgstr "{color=#f00} {b}-{/b} Volonté"
+
+#    # game/tool/notifications_value.rpy:8
+msgid "{color=#f00}{b}+{/b} Inhibition"
+msgstr "{color=#f00}{b}+{/b} Inhibition"
+
+#    # game/tool/notifications_value.rpy:9
+msgid "{color=#00ff00} {b}-{/b} Inhibition"
+msgstr "{color=#00ff00} {b}-{/b} Inhibition"
+
+#    # game/tool/notifications_value.rpy:10
+msgid "{color=#00ff00}{b}+{/b} Addictions"
+msgstr "{color=#00ff00}{b}+{/b} Addictions"
+
+#    # game/tool/notifications_value.rpy:11
+msgid "{color=#f00} {b}-{/b} Addictions"
+msgstr "{color=#f00} {b}-{/b} Addictions"
+
+#    # game/tool/notifications_value.rpy:12
+msgid "{color=#00ff00}{b}+{/b} Lust"
+msgstr "{color=#00ff00}{b}+{/b} Désir"
+
+#    # game/tool/notifications_value.rpy:13
+msgid "{color=#f00} {b}-{/b} Lust"
+msgstr "{color=#f00} {b}-{/b} Désir"
+
+#    # game/tool/notifications_value.rpy:14
+msgid "{color=#00ff00}{b}+{/b} Submission"
+msgstr "{color=#00ff00}{b}+{/b} Addictions"
+
+#    # game/tool/notifications_value.rpy:15
+msgid "{color=#f00} {b}-{/b} Submission"
+msgstr "{color=#00ff00}{b}+{/b} Addictions"
+
+#    # game/tool/notifications_value.rpy:17
+msgid "{color=#00ff00}{b}+{/b} Friendship"
+msgstr "{color=#00ff00}{b}+{/b} Amitié"
+
+#    # game/tool/notifications_value.rpy:18
+msgid "{color=#f00} {b}-{/b} Friendship"
+msgstr "{color=#f00} {b}-{/b} Amitié"
+
+#    # game/tool/notifications_value.rpy:19
+msgid "{color=#00ff00}{b}+{/b} Favour"
+msgstr "{color=#00ff00}{b}+{/b} Faveurs"
+
+#    # game/tool/notifications_value.rpy:20
+msgid "{color=#f00} {b}-{/b} Favour"
+msgstr "{color=#f00} {b}-{/b} faveur"
+
+#    # game/tool/notifications_value.rpy:21
+msgid "{color=#00ff00}{b}+{/b} Love"
+msgstr "{color=#00ff00}{b}+{/b} Amour"
+
+#    # game/tool/notifications_value.rpy:22
+msgid "{color=#f00} {b}-{/b} Love"
+msgstr "{color=#f00} {b}-{/b} Amour"
+
+#    # game/tool/notifications_value.rpy:23
+msgid "{color=#00ff00}{b}+{/b} Corruption"
+msgstr "{color=#00ff00}{b}+{/b} Corruption"
+
+#    # game/tool/notifications_value.rpy:24
+msgid "{color=#f00} {b}-{/b} Corruption"
+msgstr "{color=#f00} {b}-{/b} Corruption"
+
+#    # game/tool/notifications_value.rpy:25
+msgid "{color=#f00}{b}+{/b} Anger"
+msgstr "{color=#f00}{b}+{/b} Colère"
+
+#    # game/tool/notifications_value.rpy:26
+msgid "{color=#00ff00} {b}-{/b} Anger"
+msgstr "{color=#00ff00} {b}-{/b} Colère"
+
+#    # game/tool/notifications_value.rpy:27
+msgid "{color=#f00}{b}+{/b} Fear"
+msgstr "{color=#f00}{b}+{/b} Peur"
+
+#    # game/tool/notifications_value.rpy:28
+msgid "{color=#00ff00} {b}-{/b} Fear"
+msgstr "{color=#00ff00} {b}-{/b} Peur"
+

@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /master/game/tl/crowdin/labels/anna.po\n"
+"X-Crowdin-File-ID: 967\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2022-09-01 16:12\n"
+
+msgid "[TALKmc03] Wow!!"
+msgstr "[TALKmc03] Wow!!"
+
+msgid "[TALKmc00] Mmmm! It's fantastic!"
+msgstr "[TALKmc00] Mmmm! È fantastico!"
+
+msgid "[TALKmc08] WTF!"
+msgstr "[TALKmc08] WTF!"
+
+msgid "[TALKmc08] [annR.NPClabel] Huh?!"
+msgstr "[TALKmc08] [annR.NPClabel] Eh?!"
+
+msgid "[TALKmc08] Mrs. [ann]?!"
+msgstr "[TALKmc08] Sig.ra [ann]?!"
+
+msgid "[TALKmc08] {i}Oh God!!! Was it just a dream. "
+msgstr "[TALKmc08] {i}Oh Dio!!! Era solo un sogno. "
+
+msgid "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
+msgstr "[TALKmc07] {i}Che cosa mi è preso?! È così sbagliato!"
+
+msgid "[TALKmc07] {i}Mhh... Better to hide this tent pole before..."
+msgstr "[TALKmc07] {i}Mhh... Meglio nascondere questa alzabandiera prima che..."
+
+msgid "(KNOCK KNOCK)"
+msgstr "(TOC TOC)"
+
+msgid "[TALKmc08] {i}Damn it!"
+msgstr "[TALKmc08] {i}Dannazione!"
+
+msgid "[TALKann00] Good morning Bobby! Time to get up!"
+msgstr "[TALKann00] Buongiorno Bobby! Ora di alzarsi!"
+
+msgid "[TALKmc12] Yawn! Morning."
+msgstr "[TALKmc12] Yawn! Buongiorno."
+
+msgid "[TALKann00] I'm doing laundry, do you have anything to wash?"
+msgstr "[TALKann00] Sto facendo il bucato, hai niente da lavare?"
+
+msgid "[TALKmc07] Yawn! Sorry, I can't remember."
+msgstr "[TALKmc07] Yawn! Non ricordo."
+
+msgid "[TALKann00] Let's see, I had left... ah! there it is!"
+msgstr "[TALKann00] Vediamo, avevo lasciato... ah! eccolo!"
+
+msgid "[TALKann] What's the matter, honey? You're so quiet this morning. [nointeract]"
+msgstr "[TALKann] Che cosa c'è, tesoro? Sei così silenzioso questa mattina. [nointeract]"
+
+msgid "[TALKmc00] I'm fine, I just a weird dream."
+msgstr "[TALKmc00] Sto bene, ho solo fatto un sogno strano."
+
+msgid "[TALKann00] Tell me! What dream?"
+msgstr "[TALKann00] Racconta! Che sogno?"
+
+msgid "[TALKmc08] Ahahahah... emmm... it's a bit hard to explain."
+msgstr "[TALKmc08] Ahahahah... emmm... È un po' complicato da spiegare."
+
+msgid "[TALKmc10] I really need a hug...."
+msgstr "[TALKmc10] Mi serve un abbraccio...."
+
+msgid "[TALKann00] Ahah! {p}Don't be silly."
+msgstr "[TALKann00] Ahah! {p}Non essere sciocco."
+
+msgid "[TALKann00] I'll wash this for you!"
+msgstr "[TALKann00] Te lo lavo io questo!"
+
+msgid "[TALKmc10] {i}Oh fuck, what nice curves..."
+msgstr "[TALKmc10] {i}Oh cazzo, che belle curve..."
+
+msgid "[TALKmc06] {i}Think [mc]..."
+msgstr "[TALKmc06] {i}Pensa [mc]..."
+
+msgid "What I could do now: [nointeract]"
+msgstr "Cosa potrei fare ora: [nointeract]"
+
+msgid "[TALKmc13] [annR.NPClabel] Huh?!"
+msgstr "[TALKmc13] [annR.NPClabel] Eh?!"
+
+msgid "[TALKmc13] Mrs. [ann]?!"
+msgstr "[TALKmc13] Sig.ra [ann]?!"
+
+msgid "[TALKann02] Ohh, you scared me!"
+msgstr "[TALKann02] Ohh, mi hai spaventato!"
+
+msgid "[TALKmc10] Here. Let me help you with the basket."
+msgstr "[TALKmc10] Ecco. Ehi! Lascia che ti aiuti con il cesto."
+
+msgid "[TALKann04] ... It's okay baby, I can do it!"
+msgstr "[TALKann04] ... Va bene piccolo, ce la posso fare!"
+
+msgid "[TALKmc03] {i}Oh my god!!! It feels so good!"
+msgstr "[TALKmc03]{i}Oh mio dio!!! È così bello!"
+
+msgid "[TALKmc00] Hey [annR.NPClabel]! Let me help you with this."
+msgstr "[TALKmc00] Ehi [annR.NPClabel]! Lascia che ti aiuti con questo."
+
+msgid "[TALKann01] Oh honey, you're so sweet."
+msgstr "[TALKann01] Oh tesoro, sei così dolce."
+
+msgid "[TALKmc08] ..."
+msgstr "[TALKmc08] ..."
+
+msgid "[TALKann03] It's okay, I can handle it."
+msgstr "[TALKann03] Va bene, posso farcela."
+
+#    # game/labels/anna.rpy:56
+msgid "About the dream"
+msgstr "Riguardo il sogno"
+
+#    # game/labels/anna.rpy:56
+msgid "I would like a hug"
+msgstr "Vorrei un abbraccio"
+
+#    # game/labels/anna.rpy:76
+msgid "Play a trick on her"
+msgstr "Falle uno scherzetto"
+
+#    # game/labels/anna.rpy:76
+msgid "Help her with the basket"
+msgstr "Aiutala con il cesto"
+

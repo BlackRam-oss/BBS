@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/screens.po\n"
+"X-Crowdin-File-ID: 637\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2021-09-02 09:33\n"
+
+#    # game/tool/screens.rpy:254
+msgid "Talk"
+msgstr "Talk"
+
+#    # game/tool/screens.rpy:262
+msgid "Wait"
+msgstr "Wait"
+
+#    # game/tool/screens.rpy:304
+msgid "Settings"
+msgstr "Settings"
+
+#    # game/tool/screens.rpy:314
+msgid "Characters info"
+msgstr "Characters info"
+
+#    # game/tool/screens.rpy:325
+msgid "Memo"
+msgstr "Memo"
+
+#    # game/tool/screens.rpy:356
+msgid "Backpack"
+msgstr "Backpack"
+
+#    # game/tool/screens.rpy:366
+msgid "Smartphone"
+msgstr "Smartphone"
+
+#    # game/tool/screens.rpy:376
+msgid "Map"
+msgstr "Map"
+
+#    # game/tool/screens.rpy:482
+msgid "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
+msgstr "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
+
+#    # game/tool/screens.rpy:484
+msgid "You have completed all the quests."
+msgstr "You have completed all the quests."
+

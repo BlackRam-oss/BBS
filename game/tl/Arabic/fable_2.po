@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/game/tl/crowdin/minigame/fable_2.po\n"
+"X-Crowdin-File-ID: 979\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2021-09-02 12:51\n"
+
+#    # game/minigame/fable_2.rpy:41
+msgid "{color=#1e8e00}Good Work!{/color}"
+msgstr ""
+
+#    # game/minigame/fable_2.rpy:45
+msgid "{color=#950000}Ups...\n"
+"Try Again.{/color}"
+msgstr ""
+

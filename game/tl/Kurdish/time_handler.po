@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: ku\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/time_handler.po\n"
+"X-Crowdin-File-ID: 641\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Kurdish\n"
+"Language: ku_TR\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
+
+#    # game/tool/time_handler.rpy:3
+msgid "Night"
+msgstr "Shaw"
+
+#    # game/tool/time_handler.rpy:3
+msgid "Morning"
+msgstr "Bayany"
+
+#    # game/tool/time_handler.rpy:3
+msgid "Afternoon"
+msgstr "Niwaro"
+
+#    # game/tool/time_handler.rpy:3
+msgid "Evening"
+msgstr "Eiawara"
+

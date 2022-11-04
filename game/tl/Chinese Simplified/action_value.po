@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/action_value.po\n"
+"X-Crowdin-File-ID: 969\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2021-09-12 16:22\n"
+
+#    # game/tool/action_value.rpy:7
+msgid "Nap"
+msgstr ""
+
+#    # game/tool/action_value.rpy:7
+msgid "Laptop"
+msgstr ""
+
+#    # game/tool/action_value.rpy:7
+msgid "Stealth Training"
+msgstr ""
+
+#    # game/tool/action_value.rpy:7
+msgid "Go to the Kitchen"
+msgstr ""
+

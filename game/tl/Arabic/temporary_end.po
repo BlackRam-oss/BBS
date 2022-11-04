@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"This is the temporary end (current version: [config.version]). You'll have to wait for a new update.\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/temporary_end.po\n"
+"X-Crowdin-File-ID: 639\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Arabic\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2021-09-02 12:52\n"
+
+msgid "This is the temporary end (current version: [config.version]). You'll have to wait for a new update."
+msgstr ""
+
+msgid "If you want more updates, support me on {a=patreon_link}Patreon"
+msgstr ""
+
+msgid "Save your game now."
+msgstr ""
+
+msgid "Pressing ENTER will return you to the Main Menu."
+msgstr ""
+
+msgid "(Coming soon)"
+msgstr ""
+
+msgid "Support me on {a=patreon_link}Patreon"
+msgstr ""
+

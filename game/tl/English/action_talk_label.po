@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: en\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/action_talk_label.po\n"
+"X-Crowdin-File-ID: 649\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"PO-Revision-Date: 2021-09-13 16:18\n"
+
+msgid "OK, I'm off. See you."
+msgstr "OK, I'm off. See you."
+
+msgid "It's getting late. See you later."
+msgstr ""
+
+msgid "Sorry, but I have to go now. Bye."
+msgstr "Sorry, but I have to go now. Bye."
+
+msgid "Good talk. We should do this more often."
+msgstr "Good talk. We should do this more often."
+
+msgid "I just remembered something. Gotta go! Bye."
+msgstr "I just remembered something. Gotta go! Bye."
+
+msgid "I won't keep you any longer. Bye."
+msgstr "I won't keep you any longer. Bye."
+
+msgid "I was supposed to tell you something else.... But I can't remember what it was."
+msgstr ""
+
+msgid "When it comes back to me I'll let you know, bye."
+msgstr "When it comes back to me I'll let you know, bye."
+

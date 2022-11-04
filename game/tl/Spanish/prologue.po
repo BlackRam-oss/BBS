@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /master/game/tl/crowdin/labels/prologue.po\n"
+"X-Crowdin-File-ID: 647\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2022-01-18 21:22\n"
+
+msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
+msgstr "Novato [says] ¿Probaste ese nuevo restaurante italiano... ¡¿cómo se llamaba?! ¡Oh, cierto! Da Luigi."
+
+msgid "Policewoman [says] No!"
+msgstr "Mujer policía [says] ¡No!"
+
+msgid "Newbie [says] Me neither, but I've heard good things about it. We could..."
+msgstr "Newbie [says] Yo tampoco, pero he escuchado cosas buenas al respecto. Podriamos..."
+
+msgid "Policewoman [says] I don't think so!"
+msgstr "Policewoman [says] I don't think so!"
+
+msgid "Newbie [says] Um... I wasn't coming on to you, just wanted to know a bit more about you."
+msgstr "Novato [says] Um... No me acercaba a ti, solo quería saber un poco más sobre ti."
+
+msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
+msgstr "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
+
+msgid "Policewoman [says] With that said, I'm not here to make friends, we're just partners. Understood?"
+msgstr "Policewoman [says] With that said, I'm not here to make friends, we're just partners. Understood?"
+
+msgid "Newbie [says] Yes, Ma'am!"
+msgstr "Newbie [says] Yes, Ma'am!"
+
+msgid "Policewoman [says] Okay, we're here."
+msgstr "Mujer policía [says] Está bien, estamos aquí."
+
+msgid "Policewoman [says] Newbie, make sure the perp is comfortable with the handcuffs."
+msgstr "Policewoman [says] Newbie, make sure the perp is comfortable with the handcuffs."
+
+msgid "Newbie [says] You heard her! Today is your big day..."
+msgstr "Novato [says] ¡La escuchaste! Hoy es tu gran día..."
+
+msgid "Cop [says] Smile pretty..."
+msgstr "Policía [says] Sonríe guapa..."
+
+msgid "Cop [says] Okay, now let's see who we have here today:"
+msgstr "Cop [says] Bien, ahora veamos quiénes tenemos aquí hoy:"
+
+msgid "Cop [says] Name:"
+msgstr "Nombre del [says] del policía:"
+
+msgid "Cop [says] Surname:"
+msgstr "Apellido [says] policía:"
+
+msgid "Cop [says] Age: 24 years old."
+msgstr "Policia [says] Edad: 24 años."
+
+msgid "Cop [says] Good! Now straight to the interrogation room, officers Murtaugh and Riggs want to have a quick chat with you."
+msgstr "¡Policía [says] bien! Ahora directamente a la sala de interrogatorios, los oficiales Murtaugh y Riggs quieren tener una charla rápida contigo."
+
+msgid "Riggs [says] Here he is! Our suspect... How about that... He doesn't look like a criminal."
+msgstr "Riggs [says] ¡Aquí está! Nuestro sospechoso... Quien lo diría... No parece un criminal."
+
+msgid "Murtaugh [says] The real question is whether he is more of a petty thief or a hardened killer."
+msgstr "Murtaugh [says] The real question is whether he is more of a petty thief or a hardened killer."
+
+msgid "Murtaugh [says] Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you are... [mc]! AKA are the bad guy!"
+msgstr "Murtaugh [says] Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you are... [mc]! AKA are the bad guy!"
+
+msgid "Riggs [says] YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
+msgstr "Riggs [says] CREES QUE ESTO ES UN JUEGO!!! ¿QUIERES TERMINAR COMO TU PADRE???"
+
+msgid "Murtaugh [says] Easy... Easy Riggs. We know he's innocent. But to let him go, we need to know who his partner is."
+msgstr "Murtaugh [says] Tranquilo... Tranquilo Riggs. Sabemos que es inocente. Pero para dejarlo ir, necesitamos saber quién es su socio."
+
+msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 in and out of halfway houses..."
+msgstr ""
+
+msgid "Riggs [says] Whereas, she..."
+msgstr "Riggs [says] Mientras que, ella..."
+
+msgid "Riggs [says] Your..."
+msgstr "Riggs [says] Tu..."
+
+msgid "Riggs [says] Was desperate to help. But you didn't care. Right?"
+msgstr "Riggs [says] Estaba desesperado por ayudar. Pero no te importaba. ¿Correcto?"
+
+msgid "Murtaugh [says] Let's rewind..."
+msgstr "Murtaugh [says] Rebobinamos..."
+
+msgid "Murtaugh [says] Anna, after your step-mother died, decided to bring you and your [lizR.NPClabel] into her home..."
+msgstr "Murtaugh [says] Anna, después de que tu madrastra muriera, decidió llevarte a ti y a tu [lizR.NPClabel] a su hogar..."
+
+msgid "Murtaugh [says] From the man who was kind enough to impregnated her when she was only 18 and then left her with nothing."
+msgstr ""
+
+msgid "Murtaugh [says] Not caring about her..."
+msgstr "Murtaugh [says] Sin preocuparse por ella..."
+
+msgid "Murtaugh [says] After that she tried to rebuild her life by having another child with a better man...."
+msgstr "Murtaugh [says] Después de eso, ella trató de reconstruir su vida teniendo otro hijo con un hombre mejor...."
+
+msgid "Murtaugh [says] [ann], after your step-mother died, she decided to bring you into her home..."
+msgstr "Murtaugh [says] [ann], después de que tu madrastra muriera, decidió llevarte a su hogar..."
+
+msgid "Murtaugh [says] Although you are the son of her ex-boyfriend."
+msgstr "Murtaugh [says] Aunque eres el hijo de su exnovio."
+
+msgid "Murtaugh [says] Treating you like a son, letting you sleep under the same roof as her daughters..."
+msgstr "Murtaugh [says] Tratandote como a un hijo, dejándote dormir bajo el mismo techo que sus hijas..."
+
+msgid "Murtaugh [says] And..."
+msgstr "Murtaugh [says] Y..."
+
+msgid "Murtaugh [says] and the other..."
+msgstr "Murtaugh [says] y el otro..."
+
+msgid "Riggs [says] You don't talk much, huh?"
+msgstr "Riggs [says] No hablas mucho, ¿eh?"
+
+msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
+msgstr "Riggs [says] Bueno, tenemos suficiente para mantenerte dentro por algunas noches. ¡A ver si cambias de opinión!"
+
+msgid "What happened to me... I was such a happy child... I really thought I was leaving all that pain behind."
+msgstr ""
+
+msgid "At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
+msgstr "Al principio, en la casa de [ann], parecía ir bien. Realmente esperaba que todo saliera bien."
+
+msgid "But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
+msgstr "Pero luego, al final del verano unos años atras... (burlándose) cuando Nokia todavía era un buen teléfono."
+
+msgid "It all started unravelling after that dream...."
+msgstr "Todo comenzó a desmoronarse después de ese sueño...."
+
+#    # game/labels/prologue.rpy:42
+msgid "Special thanks"
+msgstr "Agradecimientos especiales"
+
+#    # game/labels/prologue.rpy:46
+msgid "3D Modeling\n"
+"BigIrishLug\n"
+"krekerman003\n"
+"schlebbsaga\n\n"
+"Various support\n"
+"bxIvan\n"
+"Megaplayboy10k\n"
+"SummmerP"
+msgstr "Modelado 3D\n"
+"BigIrishLug\n"
+"krekerman003\n"
+"schlebbsaga\n\n"
+"Varios soporte\n"
+"bxIvan\n"
+"Megaplayboy10k\n"
+"SummmerP"
+
+#    # game/labels/prologue.rpy:114
+msgid "mom"
+msgstr "mamá"
+
+#    # game/labels/prologue.rpy:114
+msgid "mother"
+msgstr "madre"
+
+#    # game/labels/prologue.rpy:116
+msgid "step son"
+msgstr "hijastro"
+
+#    # game/labels/prologue.rpy:117
+msgid "step mom"
+msgstr "madrastra"
+
+#    # game/labels/prologue.rpy:120
+msgid "brother"
+msgstr "hermano"
+
+#    # game/labels/prologue.rpy:121
+msgid "sister"
+msgstr "hermana"
+
+#    # game/labels/prologue.rpy:122
+msgid "step brother"
+msgstr "hermanastro"
+
+#    # game/labels/prologue.rpy:123
+msgid "step sister"
+msgstr "hermanastra"
+
+#    # game/labels/prologue.rpy:138
+msgid "landlord"
+msgstr "propietario"
+
+#    # game/labels/prologue.rpy:139
+msgid "leaseholder"
+msgstr "arrendatario"
+
+#    # game/labels/prologue.rpy:142
+msgid "housemate"
+msgstr "compañero"
+

@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Player [says] My name is:\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /master/game/tl/crowdin/tool/characters_handler.po\n"
+"X-Crowdin-File-ID: 631\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"PO-Revision-Date: 2021-09-02 10:33\n"
+
+msgid "Player [says] My name is:"
+msgstr "Gracz[says] Moje imię to:"
+
+msgid "Player [says] My surname is:"
+msgstr "Gracz [says] Moje nazwisko to:"
+

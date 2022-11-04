@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/game/tl/crowdin/labels/anna.po\n"
+"X-Crowdin-File-ID: 967\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2021-09-15 16:24\n"
+
+msgid "[TALKmc03] Wow!!"
+msgstr "[TALKmc03] Génial !!"
+
+msgid "[TALKmc00] Mmmm! It's fantastic!"
+msgstr "[TALKmc00] Hmm ! C'est incroyable !"
+
+msgid "[TALKmc08] WTF!"
+msgstr "[TALKmc08] c’est quoi ce bordel!"
+
+msgid "[TALKmc08] [annR.NPClabel] Huh?!"
+msgstr "[TALKmc08] [annR.NPClabel] Quoi?!"
+
+msgid "[TALKmc08] Mrs. [ann]?!"
+msgstr "[TALKmc08] Mme. [ann] ?!"
+
+msgid "[TALKmc08] {i}Oh God!!! Was it just a dream. "
+msgstr "[TALKmc08] {i}Oh mon Dieu!!! Était-ce juste un rêve. "
+
+msgid "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
+msgstr "[TALKmc07] {i}Qu'est-ce qui me prend ?! C'est n'importe quoi !"
+
+msgid "[TALKmc07] {i}Mhh... Better to hide this tent pole before..."
+msgstr "[TALKmc07] {i}Hmm... Mieux vaut cacher ce poteau de tente avant que..."
+
+msgid "(KNOCK KNOCK)"
+msgstr "(TOC TOC)"
+
+msgid "[TALKmc08] {i}Damn it!"
+msgstr "[TALKmc08] {i}Bon sang !"
+
+msgid "[TALKann00] Good morning Bobby! Time to get up!"
+msgstr "[TALKann00] Bonjour Bobby ! Il est temps de se lever !"
+
+msgid "[TALKmc12] Yawn! Morning."
+msgstr "[TALKmc12] *baille* Bonjour."
+
+msgid "[TALKann00] I'm doing laundry, do you have anything to wash?"
+msgstr "[TALKann00] Je vais faire une lessive, tu as quelque chose à laver ?"
+
+msgid "[TALKmc07] Yawn! Sorry, I can't remember."
+msgstr "[TALKmc07] *baille*! Désolé, je ne me souviens plus."
+
+msgid "[TALKann00] Let's see, I had left... ah! there it is!"
+msgstr "[TALKann00] Voyons voir, j'avais... ah ! voilà !"
+
+msgid "[TALKann] What's the matter, honey? You're so quiet this morning. [nointeract]"
+msgstr "[TALKann] Qu'est-ce qui se passe, mon chéri ? Tu ne parles pas beaucoup ce matin. [nointeract]"
+
+msgid "[TALKmc00] I'm fine, I just a weird dream."
+msgstr "[TALKmc00] §Tout va bien, j'ai juste fait un rêve bizarre."
+
+msgid "[TALKann00] Tell me! What dream?"
+msgstr "[TALKann00] Raconte-moi ! Quel genre de rêve ?"
+
+msgid "[TALKmc08] Ahahahah... emmm... it's a bit hard to explain."
+msgstr "[TALKmc08] Hahahaha... euh... c'est pas facile à expliquer."
+
+msgid "[TALKmc10] I really need a hug...."
+msgstr "[TALKmc10] J'ai vraiment besoin d'un câlin...."
+
+msgid "[TALKann00] Ahah! {p}Don't be silly."
+msgstr "[TALKann00] Haha ! {p}Ne fais pas l'idiot."
+
+msgid "[TALKann00] I'll wash this for you!"
+msgstr "[TALKann00] Je vais te laver ça !"
+
+msgid "[TALKmc10] {i}Oh fuck, what nice curves..."
+msgstr "[TALKmc10] {i}Oh putain, sacrées courbes..."
+
+msgid "[TALKmc06] {i}Think [mc]..."
+msgstr "[TALKmc06] {i} Réfléchis, [mc]..."
+
+msgid "What I could do now: [nointeract]"
+msgstr "Qu'est-ce que je peux faire : [nointeract]"
+
+msgid "[TALKmc13] [annR.NPClabel] Huh?!"
+msgstr "[TALKmc13] [annR.NPClabel] Hein ?!"
+
+msgid "[TALKmc13] Mrs. [ann]?!"
+msgstr "[TALKmc13] Mme. [ann] ?!"
+
+msgid "[TALKann02] Ohh, you scared me!"
+msgstr "[TALKann02] Ooooh, tu m'as fait peur !"
+
+msgid "[TALKmc10] Here. Let me help you with the basket."
+msgstr "[TALKmc10] Attends. Laisse-moi t'aider avec le panier."
+
+msgid "[TALKann04] ... It's okay baby, I can do it!"
+msgstr "[TALKann04] ... ça va, mon chou, je peux le faire !"
+
+msgid "[TALKmc03] {i}Oh my god!!! It feels so good!"
+msgstr "[TALKmc03] {i}Oh mon dieu!!! Ça fait trop de bien!"
+
+msgid "[TALKmc00] Hey [annR.NPClabel]! Let me help you with this."
+msgstr "[TALKmc00] Hé [annR.NPClabel] ! Laisse-moi te donner un coup de main."
+
+msgid "[TALKann01] Oh honey, you're so sweet."
+msgstr "[TALKann01] Oh, tu es si gentil, mon chéri."
+
+msgid "[TALKmc08] ..."
+msgstr "[TALKmc08] ..."
+
+msgid "[TALKann03] It's okay, I can handle it."
+msgstr "[TALKann03] Ça va, je peux le faire."
+
+#    # game/labels/anna.rpy:56
+msgid "About the dream"
+msgstr "A propos du rêve"
+
+#    # game/labels/anna.rpy:56
+msgid "I would like a hug"
+msgstr "J'aimerais un câlin"
+
+#    # game/labels/anna.rpy:76
+msgid "Play a trick on her"
+msgstr "Lui jouer un tour"
+
+#    # game/labels/anna.rpy:76
+msgid "Help her with the basket"
+msgstr "L'aider avec le panier"
+
