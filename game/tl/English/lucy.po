@@ -10,16 +10,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2021-09-12 16:23\n"
+"PO-Revision-Date: 2022-11-04 01:15\n"
 
 msgid "[TALKmc00] Hey"
-msgstr ""
+msgstr "[TALKmc00] Hey"
 
 msgid "[TALKmc02] Hi [lcy]..."
 msgstr "[TALKmc02] Hi [lcy]..."
 
 msgid "[TALKlcy02] Ugh..."
-msgstr ""
+msgstr "[TALKlcy02] Ugh..."
 
 msgid "[TALKmc00] What are you doing?"
 msgstr "[TALKmc00] What are you doing?"
@@ -28,10 +28,10 @@ msgid "[TALKlcy02] What does it look like I'm doing?"
 msgstr "[TALKlcy02] What does it look like I'm doing?"
 
 msgid "[TALKmc10] Do you need any help?"
-msgstr ""
+msgstr "[TALKmc10] Do you need any help?"
 
 msgid "[TALKlcy06] From you... No, thanks! I don't need any help from you."
-msgstr ""
+msgstr "[TALKlcy06] From you... No, thanks! I don't need any help from you."
 
 msgid "[TALKmc03] {i}Mmm... Look at that those feet!!"
 msgstr ""
